@@ -1,9 +1,9 @@
 {
     "background_color": "#455864",
     "icon_path": "./static/logos/sq-rn.png",
-    "name": "Sagiri Dev",
-    "short_name": "Sagiri",
-    "theme_color": "#455864",
+    "name": "Thyme Dev",
+    "short_name": "Thyme",
+    "theme_color": "#199966",
     "lang": "en",
     "display": "minimal-ui",
     "file_name": "manifest.json",
