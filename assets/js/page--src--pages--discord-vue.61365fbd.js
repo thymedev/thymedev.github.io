@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{uX6A:function(t,e,n){"use strict";n.r(e);var r={metaInfo:{title:"Discord"}},s=n("KHd+"),c=Object(s.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("Redirect",{attrs:{toUrl:"https://discord.gg/dGApdywudb"}})}),[],!1,null,null,null);e.default=c.exports}}]);
