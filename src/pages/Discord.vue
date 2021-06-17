@@ -1,26 +1,6 @@
 <template>
-  <Layout>
-
-    <a class="text-gray-200 font-mono text-xs md:text-sm" href="https://discord.gg/dGApdywudb">Join our Discord</a>
-
-  </Layout>
+  <Redirect :toUrl="'https://discord.gg/dGApdywudb'"></Redirect>
 </template>
-
-<page-query>
-query {
-  allPost {
-    edges {
-      node {
-        id
-        title
-        date (format: "D MMMM YYYY")
-        path
-        description
-      }
-    }
-  }
-}
-</page-query>
 
 <script>
 
