@@ -1,5 +1,5 @@
 <template>
-  <Redirect :toUrl="'https://discord.gg/dGApdywudb'"></Redirect>
+  <Redirect :toUrl="'https://discord.gg/UdTbZe8x3R'"></Redirect>
 </template>
 
 <script>

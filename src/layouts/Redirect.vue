@@ -9,16 +9,17 @@ export default {
   props: ['toUrl'],
   metaInfo() {
     return {
-      meta: [
-        { 'http-equiv': 'refresh', content: `0; URL=${this.$props.toUrl}`}
-      ],
+      // Slows page; using js only since Vue sites require js anyways
+      // meta: [
+      //   { 'http-equiv': 'refresh', content: `0; URL=${this.$props.toUrl}` }
+      // ],
       link: [
         { rel: 'canonical', href: `${this.$props.toUrl}` }
       ]
     }
   },
   beforeMount() {
-    location = this.$props.toUrl
+    location.replace(this.$props.toUrl)
   }
 }
 </script>
