@@ -1,7 +1,7 @@
 <template>
-  <Layout>
+  <div class="bg-gray-100 text-center p-6 text-gray-700 min-h-screen overflow-hidden">
     <a :href="this.$props.toUrl">Click here if you are not redirected.</a>
-  </Layout>
+  </div>
 </template>
 
 <script>
@@ -10,14 +10,14 @@ export default {
   metaInfo() {
     return {
       meta: [
-          { 'http-equiv': 'refresh', content: `0; URL=${this.$props.toUrl}`}
+        { 'http-equiv': 'refresh', content: `0; URL=${this.$props.toUrl}`}
       ],
       link: [
-          { rel: 'canonical', href: `${this.$props.toUrl}` }
+        { rel: 'canonical', href: `${this.$props.toUrl}` }
       ]
     }
   },
-  mounted() {
+  beforeMount() {
     location = this.$props.toUrl
   }
 }
