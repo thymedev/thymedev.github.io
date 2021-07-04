@@ -8,6 +8,7 @@ module.exports = {
   siteName: 'Thyme Dev',
   siteUrl: 'https://thymedev.github.io',
   siteDescription: 'Practical, user-friendly Discord bots for getting things done.',
+  titleTemplate: '%s – Thyme Dev',
   templates: {
     Post: '/blog/:title'
   },

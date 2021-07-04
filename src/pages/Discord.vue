@@ -6,7 +6,15 @@
 
 export default {
   metaInfo: {
-    title: 'Discord'
+    title: 'Discord',
+    titleTemplate: '%s – Thyme Dev',
+    meta: [
+      {
+        key: 'description',
+        name: 'description',
+        content: 'Join the official Thyme Dev Discord for updates, support requests, and a small community of friendly developers.',
+      }
+    ]
   }
 }
 </script>

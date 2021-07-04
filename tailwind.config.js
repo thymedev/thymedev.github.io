@@ -9,4 +9,13 @@ module.exports = {
       './src/**/*.md'
     ],
   },
+  theme: {
+    extend: {
+      colors: {
+        'fcfcfc': '#fcfcfc',
+        'gray-150': '#EEEFF2',
+        'gray-175': '#E9EBEE',
+      }
+    }
+  }
 }

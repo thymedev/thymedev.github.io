@@ -1,19 +1,31 @@
 <template>
-    <Layout>
+  <Layout class="min-h-screen bg-gradient-to-tr from-gray-200 to-white">
+    <!-- Header & Navigation -->
+    <Nav></Nav>
+
+    <!-- Page Content -->
+    <div class="p-6">
 
       <div class="w-full pt-4 md:pt-8">
-        <div class="w-4/5 md:w-1/2 mx-auto p-4 text-center text-gray-800 bg-white rounded-lg shadow-lg md:shadow-xl showsecret1">
-          <h1 class="my-16 font-bold font-mono text-2xl md:text-3xl">Coming soon</h1>
-          <div class="opacity-0 showsecret2 -mt-12 mb-4 transition-all duration-300">
-            <g-link class="text-indigo-800 font-mono text-xs md:text-sm" to="/discord">Curious?</g-link>
-          </div>
+        <div class="w-4/5 md:w-2/3 mx-auto p-4 text-center drop-shadow-2xl text-6xl leading-tight font-bold bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">
+          Practical, user-friendly Discord bots for getting things done.
         </div>
-        <div class="pt-8 text-center">
 
+        <div class="w-4/5 mx-auto flex items-center justify-center gap-4 py-12">
+          <div class="bg-gray-200 text-gray-300 px-6 py-4 rounded-lg cursor-not-allowed text-lg font-semibold select-none">See Bots</div>
+          <!-- <div class="bg-gray-600 text-gray-200 px-6 py-4 transition hover:bg-gray-700 shadow hover:shadow-lg rounded-lg cursor-pointer text-lg font-semibold select-none">See Bots</div> -->
+          <g-link to="/docs">
+            <div class="bg-gray-200 text-gray-600 px-6 py-4 transition hover:bg-gray-150 shadow hover:shadow-md rounded-lg cursor-pointer text-lg font-semibold select-none">See Docs</div>
+          </g-link>
+          <g-link to="/discord">
+            <div class="bg-gray-200 text-gray-600 px-6 py-4 transition hover:bg-gray-150 shadow hover:shadow-md rounded-lg cursor-pointer text-lg font-semibold select-none">Support Discord</div>
+          </g-link>
         </div>
       </div>
 
-    </Layout>
+    </div>
+
+  </Layout>
 </template>
 
 <script>
@@ -27,5 +39,11 @@ export default {
 <style scoped>
 .showsecret1:hover > .showsecret2 {
   opacity: 1 !important;
+}
+
+.bg-main {
+  background: hsla(156, 72%, 35%, 1);
+  background: linear-gradient(30deg, hsla(156, 72%, 35%, 1) 0%, hsla(232, 90%, 59%, 1) 90%);
+  /* background-image: url('https://images.unsplash.com/photo-1583133103828-81d29cb61b40?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1098&q=80'); */
 }
 </style>
