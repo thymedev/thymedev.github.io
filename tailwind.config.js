@@ -15,7 +15,10 @@ module.exports = {
         'fcfcfc': '#fcfcfc',
         'gray-150': '#EEEFF2',
         'gray-175': '#E9EBEE',
-      }
+      },
+      screens: {
+        'xs': '320px',
+      },
     }
   }
 }
