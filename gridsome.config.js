@@ -10,14 +10,21 @@ module.exports = {
   siteDescription: 'Practical, user-friendly Discord bots for getting things done.',
   titleTemplate: '%s – Thyme Dev',
   templates: {
-    Post: '/blog/:title'
+    DocPage: [
+      {
+        path: (node) => {
+          return `${node.path}`
+        }
+      }
+    ],
   },
   plugins: [
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'content/posts/**/*.md',
-        typeName: 'Post',
+        typeName: 'DocPage',
+        baseDir: './content',
+        path: './**/*.md',
       }
     },
     {

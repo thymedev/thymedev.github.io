@@ -3,12 +3,14 @@
 
 import DefaultLayout from '~/layouts/Default.vue'
 import RedirectLayout from '~/layouts/Redirect.vue'
+import DocsLayout from '~/layouts/Docs.vue'
 import NavComponent from '~/components/Nav.vue'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
   Vue.component('Redirect', RedirectLayout)
+  Vue.component('Docs', DocsLayout)
   Vue.component('Nav', NavComponent)
 
   // Add an external CSS file
