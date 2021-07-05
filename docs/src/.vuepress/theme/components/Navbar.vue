@@ -6,17 +6,19 @@
       :to="$localePath"
       class="home-link"
     >
-      <img
-        v-if="$site.themeConfig.logo"
-        class="logo"
-        :src="$withBase($site.themeConfig.logo)"
-        :alt="$siteTitle"
-      >
-      <span
-        v-if="$siteTitle"
-        ref="siteName"
-        class="site-name"
-      >{{ $siteTitle }}</span>
+      <div class="flex flex-no-wrap overflow-x-visible">
+        <img
+          v-if="$site.themeConfig.logo"
+          class="logo"
+          :src="$withBase($site.themeConfig.logo)"
+          :alt="$siteTitle"
+        >
+        <span
+          v-if="$siteTitle"
+          ref="siteName"
+          class="site-name"
+        >{{ $siteTitle }}</span>
+      </div>
     </RouterLink>
 
     <div

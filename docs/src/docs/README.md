@@ -1,3 +1,3 @@
-# Introduction
+# Thyme Docs
 
 Work in progress

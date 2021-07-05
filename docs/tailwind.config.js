@@ -1,4 +1,7 @@
 module.exports = {
+  corePlugins: {
+    preflight: false,
+  },
   purge: {
     enabled: process.env.NODE_ENV === 'production',
     content: [
