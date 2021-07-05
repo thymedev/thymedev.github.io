@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b1b938e779b848705190200f1929bfab"
+    "revision": "7ef9f7bceb35e4ccef1cb99fda55e6df"
   },
   {
     "url": "assets/css/0.styles.a64016a5.css",
@@ -82,8 +82,8 @@ self.__precacheManifest = [
     "revision": "faa271b4e003d1d301f7c46d34b5a78f"
   },
   {
-    "url": "assets/js/15.b16ff40d.js",
-    "revision": "8e3d9abda2df24173f1ee6fcbaf3cb55"
+    "url": "assets/js/15.75a3d31d.js",
+    "revision": "c63570d114a706e6386e27f6bbf58402"
   },
   {
     "url": "assets/js/16.3cf0bc7d.js",
@@ -134,8 +134,8 @@ self.__precacheManifest = [
     "revision": "eb8303d763ffcfc494e924ebb84e2080"
   },
   {
-    "url": "assets/js/app.62b24433.js",
-    "revision": "702c81cc1124b3b8983dd61b62e38c2a"
+    "url": "assets/js/app.cd2d3d5b.js",
+    "revision": "c5a5137fe9c73c3efbab5494b935fa28"
   },
   {
     "url": "bettercensor/index.html",
@@ -155,27 +155,27 @@ self.__precacheManifest = [
   },
   {
     "url": "discord.html",
-    "revision": "0f48da1399ab25bc4d9e49213970490e"
+    "revision": "7bc333b77df9d52b9601b571f981bb91"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "8016d0c4e086d10390ef57dc26e863b7"
+    "revision": "1edafd9b0b807c6cf40d9978404d6cdb"
   },
   {
     "url": "docs/betterinvites/index.html",
-    "revision": "1b5246409ba5b432a7245b7469d6c254"
+    "revision": "d4a2e43498c74d2e6bc88d1a43f8311d"
   },
   {
     "url": "docs/betternotes/index.html",
-    "revision": "9cce4280e1265e79518b62b94c067afa"
+    "revision": "427b69ccbda037db5724e0080c70f81b"
   },
   {
     "url": "docs/index.html",
-    "revision": "932e16911186c19e984447cfa46352b2"
+    "revision": "9e8ee5d9e690fcad131e890f065c9fa6"
   },
   {
     "url": "index.html",
-    "revision": "ff17e7cfe66599add9c0b0a2fcc6ce24"
+    "revision": "9120ac8949a973366e8777e925af90ad"
   },
   {
     "url": "logos/full.png",
