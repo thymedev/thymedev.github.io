@@ -16,7 +16,7 @@ BetterCensor is the powerful Discord moderation bot that automatically keeps you
 ![spoilers](https://cdn.discordapp.com/attachments/854799058144854059/859471285705113620/ezgif-2-80ca74867615.gif)
 
 
-## Help
+## Commands
 prefix: **`c`**
 
 **`chelp`**:
@@ -26,15 +26,16 @@ prefix: **`c`**
 > Sets this server's custom censor list. Words in this Google sheets will be censored.
 
 **`cupdate`**
-> Updates this server's censor list if it exists.
+> Updates this server's censor list from linked Google Sheets.
+> If you update your Google Sheets, run this command to make new changes apply.
 
 **`coverride [t,f]`**
 > Sets this server's override settings.
-> If set to true, only this server's google sheet's censor list will be used.
+> If set to true, only this server's google sheets censor list will be used.
 > If set to false, then this server's google sheets censor list will be used in conjunction with the default list [here](https://raw.githubusercontent.com/thymedev/censor-bot/master/DefaultList.json).
 
 **`cwith [#, *, |, or d]`**
-> Sets the censoring options to ###, ***, spoliers, or deleting the message.
+> Sets the censoring options to ###, \*\*\*, spoliers, or deleting the message.
 > ex: `This is a censored term --> This is a *************`
 
 **`cignore [#channel, #channel1, ...]`**`
