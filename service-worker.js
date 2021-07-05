@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9f197f8764a8b094d7c7aaeaf3ea9f3e"
+    "revision": "2bd1b243015f5f3d52fc443b303ac72c"
   },
   {
     "url": "assets/css/0.styles.c93c0202.css",
@@ -102,7 +102,7 @@ self.__precacheManifest = [
     "revision": "bd925582b61bd1d1df0e07cd5eb3810d"
   },
   {
-    "url": "assets/js/2.7273b26b.js",
+    "url": "assets/js/2.6e793de5.js",
     "revision": "9b7fc95e9b37db966158b6f73ee7641b"
   },
   {
@@ -146,8 +146,8 @@ self.__precacheManifest = [
     "revision": "5a3055d6b6083ad287242ec38a353292"
   },
   {
-    "url": "assets/js/app.1fb56199.js",
-    "revision": "9ca3b462d6b2a46a15e4c36fb0ddaaa2"
+    "url": "assets/js/app.af43fe88.js",
+    "revision": "6d159525761978afa28ba582a6650060"
   },
   {
     "url": "bettercensor/index.html",
@@ -167,39 +167,39 @@ self.__precacheManifest = [
   },
   {
     "url": "config/guide.html",
-    "revision": "07ed0dd84b876df0d292f41f7e7120fb"
+    "revision": "8e55cae2910f7c7c22c9ffe09a789034"
   },
   {
     "url": "config/index.html",
-    "revision": "c55a07fe3e8715340af50d069cb0fd14"
+    "revision": "78d0e4b39e76664d1253dc4db758cef7"
   },
   {
     "url": "config/using-vue.html",
-    "revision": "c28b85204e0418f0038afb80b41921ae"
+    "revision": "3b0730f0b4d2d69d37fe1bbfa1978707"
   },
   {
     "url": "discord.html",
-    "revision": "5507fc42a80f16698d42633eff81c6c6"
+    "revision": "46b0ef3446249fb3a20f85fdb2536abf"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "59267b814272ee2860ce200956293a6c"
+    "revision": "d7c08eb7ec531f218faa1effbcdc974f"
   },
   {
     "url": "docs/betterinvites/index.html",
-    "revision": "7c71834ba24a88aa4f6bb37623fee438"
+    "revision": "2c0ee563c40b5a0ed9b387a2a499af10"
   },
   {
     "url": "docs/betternotes/index.html",
-    "revision": "2ae354b99cf2f6016f67446a45e01086"
+    "revision": "0801ba2acece04292c678e36ab644ff3"
   },
   {
     "url": "docs/index.html",
-    "revision": "7ed1c9f58dce839b0e97ed575c29779b"
+    "revision": "6e67f0d6c6e0d82e251870b42811ae8f"
   },
   {
     "url": "index.html",
-    "revision": "d6f76e6777db79841a03874738db9b89"
+    "revision": "9899d5914a9fa686b2c5a5d12420678f"
   },
   {
     "url": "logos/full.png",
