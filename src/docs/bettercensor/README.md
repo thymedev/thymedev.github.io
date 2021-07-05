@@ -13,7 +13,7 @@ BetterCensor is the powerful Discord moderation bot that automatically keeps you
 - Advanced integration with Google sheets to easily create, edit and share censor lists
 - Webhook based censoring to make censoring seemless
 - Options for ###, \*\*\*, or  
-![spoilers](https://cdn.discordapp.com/attachments/854799058144854059/859471285705113620/ezgif-2-80ca74867615.gif)
+![spoilers](https://github.com/thymedev/thymedev.github.io/blob/master/src/docs/bettercensor/ezgif-2-80ca74867615%5B1%5D.gif?raw=true)
 
 
 ## Commands
@@ -21,9 +21,11 @@ prefix: **`c`**
 
 **`chelp`**:
 > Displays link to this document.
-> 
+
+
 **`cset [https://docs.google.com/spreadsheets/d/.../]`**
-> Sets this server's custom censor list. Words in this Google sheets will be censored.
+> Sets this server's custom censor list.
+> Words in this Google sheets will be censored.
 
 **`cupdate`**
 > Updates this server's censor list from linked Google Sheets.
@@ -32,7 +34,7 @@ prefix: **`c`**
 **`coverride [t,f]`**
 > Sets this server's override settings.
 > If set to true, only this server's google sheets censor list will be used.
-> If set to false, then this server's google sheets censor list will be used in conjunction with the default list [here](https://raw.githubusercontent.com/thymedev/censor-bot/master/DefaultList.json).
+> If set to false, both the server's censor list and the [default list](https://raw.githubusercontent.com/thymedev/censor-bot/master/DefaultList.json) will be enforced.
 
 **`cwith [#, *, |, or d]`**
 > Sets the censoring options to ###, \*\*\*, spoliers, or deleting the message.
