@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "bf27a005682fce2187b1e94074f389e6"
+    "revision": "e3dc204a6935e3537a831684a6118882"
   },
   {
-    "url": "assets/css/0.styles.36d925c9.css",
-    "revision": "a4487fc99f29744fba8df700bfe66da7"
+    "url": "assets/css/0.styles.c93c0202.css",
+    "revision": "e3fb21255dab866186e603efade8af5b"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -90,36 +90,44 @@ self.__precacheManifest = [
     "revision": "9873ad41897de55d36ddf76b96f203fe"
   },
   {
-    "url": "assets/js/17.eb4c6daa.js",
-    "revision": "95871f5723839c99ddda408cb869b637"
+    "url": "assets/js/17.52b96969.js",
+    "revision": "1ac16d62df3048924c7279fa80bfa438"
   },
   {
-    "url": "assets/js/18.bdea240c.js",
-    "revision": "066b5ef3af5d81a4dd3d98989763c141"
+    "url": "assets/js/18.a0d21496.js",
+    "revision": "1122106ddeed0b7773cec9629acdd496"
   },
   {
-    "url": "assets/js/19.c619389b.js",
-    "revision": "4a3273ece730863bc6d170df4100fba2"
+    "url": "assets/js/19.79f18f81.js",
+    "revision": "bd925582b61bd1d1df0e07cd5eb3810d"
   },
   {
     "url": "assets/js/2.a9b40460.js",
     "revision": "9b7fc95e9b37db966158b6f73ee7641b"
   },
   {
-    "url": "assets/js/20.4e99edbd.js",
-    "revision": "43cba71f1b038cfc05f36631820ff90c"
+    "url": "assets/js/20.823d9fe4.js",
+    "revision": "73e862152e8508607605d32c66e84755"
   },
   {
-    "url": "assets/js/3.e6172d5d.js",
-    "revision": "2b7fe161a852ddd42fb30456900dd964"
+    "url": "assets/js/21.e1accca1.js",
+    "revision": "40381e892046ed39bfbedc0fcf6a7747"
   },
   {
-    "url": "assets/js/4.cd0a67d3.js",
-    "revision": "eab6b217687cc12c9a5b7252b35be9ae"
+    "url": "assets/js/22.2d1278f5.js",
+    "revision": "d43636b6a8a2ad82ab502ef1ea12f1b2"
   },
   {
-    "url": "assets/js/5.cf192cea.js",
-    "revision": "405f14495b740a92c36ff1d650d3505d"
+    "url": "assets/js/3.141be6f3.js",
+    "revision": "070e859ae22a6cb201aa7b8b672a22ec"
+  },
+  {
+    "url": "assets/js/4.57355589.js",
+    "revision": "2857b7238b6bb4315d673fabcfcbc2ab"
+  },
+  {
+    "url": "assets/js/5.584455d9.js",
+    "revision": "914900ac37ce499bbd1ed795db84780c"
   },
   {
     "url": "assets/js/6.d70077a8.js",
@@ -134,40 +142,64 @@ self.__precacheManifest = [
     "revision": "08f34f286455a06b4077ab7bc353a0c9"
   },
   {
-    "url": "assets/js/9.2f51184a.js",
-    "revision": "0295ace899841ee6c385ab0b268f9ff3"
+    "url": "assets/js/9.66127db7.js",
+    "revision": "5a3055d6b6083ad287242ec38a353292"
   },
   {
-    "url": "assets/js/app.6ae0844f.js",
-    "revision": "4db3e3179cc014f803f68656705de245"
+    "url": "assets/js/app.7ffefb29.js",
+    "revision": "369cce34bdac90fba9e6c095b873ea90"
+  },
+  {
+    "url": "bettercensor/index.html",
+    "revision": "1d3e78f00a842329505b0904c280bd6b"
+  },
+  {
+    "url": "betterinvites/index.html",
+    "revision": "ddbfb8c82046bfced65ae144e3b3d00d"
+  },
+  {
+    "url": "betternotes/index.html",
+    "revision": "cbb389291d31a24a1fd5adbdfc55844c"
+  },
+  {
+    "url": "bots/index.html",
+    "revision": "cfca9719db120182e1d085f8a35c5f62"
   },
   {
     "url": "config/guide.html",
-    "revision": "fdaedba266b4eb5d3429848404e1d106"
+    "revision": "0502c9990a78750ff1555c380b4a691a"
   },
   {
     "url": "config/index.html",
-    "revision": "583b9710525ebfd0d8e0b44e699f32fb"
+    "revision": "3c43a93e0661036e937a9926b081d5f0"
   },
   {
     "url": "config/using-vue.html",
-    "revision": "5cdfab6af9a355395cd07448a1dbdd37"
+    "revision": "ae580cb7672c70915e3578a34e877a37"
   },
   {
     "url": "discord.html",
-    "revision": "4db05d59ee6a67f03488f1ca6ff3247f"
+    "revision": "d56553ba7f745ba3b65db449c33b87fa"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "7a1bca4f221c7bb0fbecb3e7a60ffacc"
+    "revision": "4d406f7ce25275ea1e6b503806539051"
+  },
+  {
+    "url": "docs/betterinvites/index.html",
+    "revision": "b4bb7d6b078fb6b5e87ee922922487f0"
+  },
+  {
+    "url": "docs/betternotes/index.html",
+    "revision": "e56558b08d3fe8f594723b457e2cc6fe"
   },
   {
     "url": "docs/index.html",
-    "revision": "e9f76fe2b3f1ebcd17b5dc042f386b1e"
+    "revision": "0fcd970e1bb0c07956460a4249d95fe5"
   },
   {
     "url": "index.html",
-    "revision": "5c23acbd789bc461f68c1974db9a2d45"
+    "revision": "7994df7d4dd8c392934ef9223a63cb7c"
   },
   {
     "url": "logos/full.png",
