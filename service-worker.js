@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "fbdf034d09959eb1790f5b970e550dd0"
+    "revision": "05371039c07338745868da2bcbbacc4f"
   },
   {
-    "url": "assets/css/0.styles.ab7e22a9.css",
-    "revision": "c4b099a3260c460cc1ead0214b64adf7"
+    "url": "assets/css/0.styles.9bfb89b6.css",
+    "revision": "3897c95a54a46d0db59c95284d18cd18"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -82,20 +82,20 @@ self.__precacheManifest = [
     "revision": "688ee87631131e3f95a44d6b62db2f75"
   },
   {
-    "url": "assets/js/15.a01146bd.js",
-    "revision": "8d94a6366dc186327d48c99159e44316"
+    "url": "assets/js/15.bdd0a19a.js",
+    "revision": "26fe72fbed4347324f548c2c0640cba9"
   },
   {
-    "url": "assets/js/16.21661adf.js",
-    "revision": "01164c10a6f70bd176d6a6e3cd3bc5c5"
+    "url": "assets/js/16.db42a474.js",
+    "revision": "9ca54222f3afb12292e7a987dc8f6708"
   },
   {
-    "url": "assets/js/17.1f98ab65.js",
-    "revision": "c230b63f19e8399d335da37104816a14"
+    "url": "assets/js/17.f5813c62.js",
+    "revision": "f2c3058080b2f948ed0d6f786923b076"
   },
   {
-    "url": "assets/js/18.4b7334ea.js",
-    "revision": "c1db207bb3e4ede38654520ae0f3ee25"
+    "url": "assets/js/18.76e34f3c.js",
+    "revision": "d29627109cf69bc027ba5f4ec7c1d1f9"
   },
   {
     "url": "assets/js/19.5c55fd13.js",
@@ -134,32 +134,32 @@ self.__precacheManifest = [
     "revision": "83b6340b4112680e129511cdba2e838c"
   },
   {
-    "url": "assets/js/app.16fb8cf8.js",
-    "revision": "d4ae6a50bbfce503025d274613bcf556"
+    "url": "assets/js/app.6483ea78.js",
+    "revision": "35d92dd155206b7e8959e813ab7c49bd"
   },
   {
     "url": "config/guide.html",
-    "revision": "9517a1c24516994ae7e1afa065d900d8"
+    "revision": "ee1ef080ba04d9ccb08a180bebe97caf"
   },
   {
     "url": "config/index.html",
-    "revision": "edbf2461e7f13f5e47ac502b662cdb49"
+    "revision": "c2e233a813850a5d01b3990b2001fc8a"
   },
   {
     "url": "config/using-vue.html",
-    "revision": "cead961bd7aa66b09ae9eb5e5b74adf9"
+    "revision": "71071d3642d9cb88ec28bfe4765d9dfe"
   },
   {
     "url": "discord.html",
-    "revision": "20581d8d02c7b6c57eda3395db291336"
+    "revision": "16a8fb9d6ee49ff1383554df91caad76"
   },
   {
     "url": "docs/index.html",
-    "revision": "540ebec185668d76669fec493a98ccb8"
+    "revision": "c36077798cd57ca77472a694404cf27f"
   },
   {
     "url": "index.html",
-    "revision": "8f0a3b16065d3b4591602a264ce0b1eb"
+    "revision": "a3057b11b3c8cff582fa8994b6f0e741"
   },
   {
     "url": "logos/full.png",
