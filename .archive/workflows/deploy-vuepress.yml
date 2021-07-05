@@ -14,5 +14,7 @@ jobs:
       uses: testthedocs/github-pages-deploy-action@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BASE_BRANCH: master
+        BRANCH: gh-pages
         BUILD_DIR: src/.vuepress/dist/ # The folder, the action should deploy.
         BUILD_SCRIPT: cd docs && npm install && npm run-script build # The build script the action should run prior to deploying.
