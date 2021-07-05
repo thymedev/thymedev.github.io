@@ -42,17 +42,6 @@ module.exports = {
           ]
         },
       ],
-      '/config/': [
-        {
-          title: 'Config',
-          collapsable: false,
-          children: [
-            '',
-            'guide',
-            'using-vue',
-          ]
-        }
-      ],
     },
     repo: '',
     editLinks: false,
