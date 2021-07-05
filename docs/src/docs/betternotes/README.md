@@ -1,3 +1,6 @@
+---
+description: "The bot built for one job: to make note taking and sharing even more powerful"
+---
 
 # BetterNotes
 The bot built for one job: to make note taking and sharing even more powerful

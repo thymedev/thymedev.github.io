@@ -1,3 +1,6 @@
+---
+description: "BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles."
+---
 
 # BetterInvites
 BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles.
