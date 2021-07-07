@@ -13,7 +13,7 @@ BetterCensor is the powerful Discord moderation bot that automatically keeps you
 - Advanced integration with Google sheets to easily create, edit and share censor lists
 - Webhook based censoring to make censoring seemless
 - Options for ###, \*\*\*, or  
-![spoilers](https://github.com/thymedev/thymedev.github.io/blob/master/src/docs/bettercensor/ezgif-2-80ca74867615%5B1%5D.gif?raw=true)
+![spoilers](/media/ezgif-2-80ca74867615[1].gif)
 
 
 ## Commands
