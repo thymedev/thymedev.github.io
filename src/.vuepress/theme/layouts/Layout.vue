@@ -153,7 +153,7 @@ export default {
 <style lang="stylus">
 @import '../styles/tailwind.styl';
 
-body
+body, .search-box input
   font-family Jost, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
 
 .search-box input
