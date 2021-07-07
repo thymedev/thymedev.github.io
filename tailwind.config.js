@@ -6,6 +6,7 @@ module.exports = {
     enabled: process.env.NODE_ENV === 'production',
     content: [
       './src/**/*.vue',
+      './src/.vuepress/**/*.vue',
       './src/**/*.js',
       './src/**/*.jsx',
       './src/**/*.pug',

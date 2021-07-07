@@ -62,7 +62,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/assets/img/sq-rn-96.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#199966' }],
-    ['link', { rel: 'apple-touch-icon', href: '/assets/logos/sq-rn.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/logos/sq-rn.png' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
     ['meta', { property: 'og:site_name', content: 'Thyme Dev' }],

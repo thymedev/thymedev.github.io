@@ -29,7 +29,7 @@
 export default {
   data () {
     return {
-      msg: 'Hello this is <Status-BotCount>',
+      // msg: 'Hello this is <Status-BotCount>',
       fetchLoading: false,
       botCount: [
         {
