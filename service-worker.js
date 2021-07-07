@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a5d565994e613001c734e25564daf438"
+    "revision": "83ad5e6e29487a502bdd941cabc74906"
   },
   {
-    "url": "assets/css/0.styles.75e32b9a.css",
-    "revision": "afc264252b8633191f01c2d76d51db04"
+    "url": "assets/css/0.styles.8f2b8452.css",
+    "revision": "cf4679b5b158d286339523dc61bf6cd7"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -102,8 +102,8 @@ self.__precacheManifest = [
     "revision": "b501eae685c7e2c61b47c1f44c010002"
   },
   {
-    "url": "assets/js/2.541b7f1a.js",
-    "revision": "71fa63c389a7576146f080fec5293654"
+    "url": "assets/js/2.f146273e.js",
+    "revision": "026e5ba15f85243a152ee61e74dbf57b"
   },
   {
     "url": "assets/js/3.d554b303.js",
@@ -134,8 +134,8 @@ self.__precacheManifest = [
     "revision": "c871e3d367334a3f19a21eb0c3264579"
   },
   {
-    "url": "assets/js/app.90b98aa4.js",
-    "revision": "8f6109f73a7e39e5b69d7668b25d970c"
+    "url": "assets/js/app.0d159e2f.js",
+    "revision": "1309710f24f0883907572fb91be11b5b"
   },
   {
     "url": "bettercensor/index.html",
@@ -155,27 +155,27 @@ self.__precacheManifest = [
   },
   {
     "url": "discord.html",
-    "revision": "1755bcf608c23deb259a78aac60a3431"
+    "revision": "619062d32b9ce0db0ddeffc22ecc5811"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "bfc476fc04f18e61e88e51832550fcc4"
+    "revision": "12e56b5725d9e10ad179895ca3ad695d"
   },
   {
     "url": "docs/betterinvites/index.html",
-    "revision": "0d71e97e8bb627002795373db1a2adc2"
+    "revision": "aa71e9bbee77d5d0f8cad1613dd8274a"
   },
   {
     "url": "docs/betternotes/index.html",
-    "revision": "b5b142537e072424729a3bef04c3dc0d"
+    "revision": "e6159bf4b27596e2e0e444fe870dc811"
   },
   {
     "url": "docs/index.html",
-    "revision": "5f0d6d0d11d7a32f5b230d24d2de8aaf"
+    "revision": "506e6f400da9933eff7a5987d8309695"
   },
   {
     "url": "index.html",
-    "revision": "105ec492797b9a5240af99b9a06a560e"
+    "revision": "3b01dbf4f10079a31e5f93069fcca4dd"
   },
   {
     "url": "logos/full.png",
