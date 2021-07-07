@@ -42,15 +42,18 @@ module.exports = {
           ]
         },
       ],
+      // '/': 'auto',
     },
-    repo: '',
-    editLinks: false,
-    docsDir: '',
-    editLinkText: '',
-    lastUpdated: false,
+    repo: 'thymedev/thymedev.github.io',
+    repoLabel: 'GitHub',
+    docsDir: 'src',
+    editLinks: true,
+    editLinkText: 'Help us improve this page',
+    lastUpdated: 'Last updated',
     logo: '/assets/img/sq-rn-48.png',
-    activeHeaderLinks: false, // Default: true - By default, the nested header links and the hash in the URL are updated as the user scrolls to view the different sections of the page.
+    activeHeaderLinks: true, // Default: true - By default, the nested header links and the hash in the URL are updated as the user scrolls to view the different sections of the page.
     displayAllHeaders: true, // Default: false
+    smoothScroll: true,
     searchPlaceholder: 'Search Docs...',
   },
   head: [
