@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "824d57ff303c3a9553fd0a8f0c31a80c"
+    "revision": "252692faf0a3feb65fe78f308ed785e2"
   },
   {
-    "url": "assets/css/0.styles.cb66050d.css",
-    "revision": "78de6856a8699fd9117fb781d0a4f68d"
+    "url": "assets/css/0.styles.b438633b.css",
+    "revision": "6fb7cb94aa164f0b4d7289ea628cb288"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -102,8 +102,8 @@ self.__precacheManifest = [
     "revision": "b501eae685c7e2c61b47c1f44c010002"
   },
   {
-    "url": "assets/js/2.2c892e54.js",
-    "revision": "94ffa56999fb81fd5b7fd3f2e3f4683b"
+    "url": "assets/js/2.73e2c8f1.js",
+    "revision": "71fa63c389a7576146f080fec5293654"
   },
   {
     "url": "assets/js/3.d554b303.js",
@@ -126,16 +126,16 @@ self.__precacheManifest = [
     "revision": "27051c4cc3b812734dd85e774f0784ba"
   },
   {
-    "url": "assets/js/8.7bbeb3ec.js",
-    "revision": "6a8e3613fa0241ec53216fd6feb86721"
+    "url": "assets/js/8.c9538839.js",
+    "revision": "52de4cb1f48d981e22fcb9ccaf257695"
   },
   {
     "url": "assets/js/9.093bc694.js",
     "revision": "c871e3d367334a3f19a21eb0c3264579"
   },
   {
-    "url": "assets/js/app.86a87ef4.js",
-    "revision": "5a0f4fd608090c4ed88c5276dc55f4df"
+    "url": "assets/js/app.255dac81.js",
+    "revision": "52a849aa6ad0e2ffd6035f3ab6763d41"
   },
   {
     "url": "bettercensor/index.html",
@@ -155,27 +155,27 @@ self.__precacheManifest = [
   },
   {
     "url": "discord.html",
-    "revision": "858e66856025fc524833fe8cfae04c87"
+    "revision": "c1c13f2d7a65b734390bc769f1fb69b9"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "61be5fb5e721b536e12c9065c5dd9c2d"
+    "revision": "55c917b61be917a169d43bcb4cb36fb9"
   },
   {
     "url": "docs/betterinvites/index.html",
-    "revision": "29f4a2294e18708f4a40caa1506a9a89"
+    "revision": "70db22cd8641c1ae9f651abf232e591c"
   },
   {
     "url": "docs/betternotes/index.html",
-    "revision": "3e458ad8df115c0105c2be8bab5b390d"
+    "revision": "1e7ae61e8cc12c19bc81b7d43078bdb1"
   },
   {
     "url": "docs/index.html",
-    "revision": "7393b38d778a7f1ec1a1bbec6ff1c5b1"
+    "revision": "8c5bd84405721a74a954208df72e5658"
   },
   {
     "url": "index.html",
-    "revision": "7ae633d80628930df73b59518546434b"
+    "revision": "b55612319bf74ed888441cea78cd8adb"
   },
   {
     "url": "logos/full.png",
