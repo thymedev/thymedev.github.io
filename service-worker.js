@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "252692faf0a3feb65fe78f308ed785e2"
+    "revision": "a5d565994e613001c734e25564daf438"
   },
   {
-    "url": "assets/css/0.styles.b438633b.css",
-    "revision": "6fb7cb94aa164f0b4d7289ea628cb288"
+    "url": "assets/css/0.styles.75e32b9a.css",
+    "revision": "afc264252b8633191f01c2d76d51db04"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -102,7 +102,7 @@ self.__precacheManifest = [
     "revision": "b501eae685c7e2c61b47c1f44c010002"
   },
   {
-    "url": "assets/js/2.73e2c8f1.js",
+    "url": "assets/js/2.541b7f1a.js",
     "revision": "71fa63c389a7576146f080fec5293654"
   },
   {
@@ -126,16 +126,16 @@ self.__precacheManifest = [
     "revision": "27051c4cc3b812734dd85e774f0784ba"
   },
   {
-    "url": "assets/js/8.c9538839.js",
-    "revision": "52de4cb1f48d981e22fcb9ccaf257695"
+    "url": "assets/js/8.5b582e01.js",
+    "revision": "32d25e647ffc1fd3f4a979aeb98cc242"
   },
   {
     "url": "assets/js/9.093bc694.js",
     "revision": "c871e3d367334a3f19a21eb0c3264579"
   },
   {
-    "url": "assets/js/app.255dac81.js",
-    "revision": "52a849aa6ad0e2ffd6035f3ab6763d41"
+    "url": "assets/js/app.90b98aa4.js",
+    "revision": "8f6109f73a7e39e5b69d7668b25d970c"
   },
   {
     "url": "bettercensor/index.html",
@@ -155,27 +155,27 @@ self.__precacheManifest = [
   },
   {
     "url": "discord.html",
-    "revision": "c1c13f2d7a65b734390bc769f1fb69b9"
+    "revision": "1755bcf608c23deb259a78aac60a3431"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "55c917b61be917a169d43bcb4cb36fb9"
+    "revision": "bfc476fc04f18e61e88e51832550fcc4"
   },
   {
     "url": "docs/betterinvites/index.html",
-    "revision": "70db22cd8641c1ae9f651abf232e591c"
+    "revision": "0d71e97e8bb627002795373db1a2adc2"
   },
   {
     "url": "docs/betternotes/index.html",
-    "revision": "1e7ae61e8cc12c19bc81b7d43078bdb1"
+    "revision": "b5b142537e072424729a3bef04c3dc0d"
   },
   {
     "url": "docs/index.html",
-    "revision": "8c5bd84405721a74a954208df72e5658"
+    "revision": "5f0d6d0d11d7a32f5b230d24d2de8aaf"
   },
   {
     "url": "index.html",
-    "revision": "b55612319bf74ed888441cea78cd8adb"
+    "revision": "105ec492797b9a5240af99b9a06a560e"
   },
   {
     "url": "logos/full.png",
