@@ -26,6 +26,7 @@
 </template>
 
 <script>
+  import '../../styles/index.styl';
   export default {
     data () {
       return {

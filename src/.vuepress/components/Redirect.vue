@@ -5,6 +5,7 @@
 </template>
 
 <script>
+import '../styles/index.styl';
 // "Best practice for redirects?" - https://github.com/vuejs/vuepress/issues/239#issuecomment-632567115
 export default {
   name: 'Redirect',
