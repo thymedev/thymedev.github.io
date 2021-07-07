@@ -8,6 +8,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Docs', link: '/docs/' },
+      { text: 'Status', link: '/status' },
       { text: 'Discord', link: '/discord', target:'_blank' },
     ],
     sidebar: {
