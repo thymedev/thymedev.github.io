@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "83ad5e6e29487a502bdd941cabc74906"
+    "revision": "648daac125b95babb29ac47a72532638"
   },
   {
     "url": "assets/css/0.styles.8f2b8452.css",
@@ -82,8 +82,8 @@ self.__precacheManifest = [
     "revision": "5c026a54b702e488eefb5fc7115771f0"
   },
   {
-    "url": "assets/js/15.b89d1e38.js",
-    "revision": "596416fc25135340e474edeb8fc4d67b"
+    "url": "assets/js/15.a2e39033.js",
+    "revision": "f1c8794690542b858a6efb0fb9dfb650"
   },
   {
     "url": "assets/js/16.a830ea86.js",
@@ -134,8 +134,8 @@ self.__precacheManifest = [
     "revision": "c871e3d367334a3f19a21eb0c3264579"
   },
   {
-    "url": "assets/js/app.0d159e2f.js",
-    "revision": "1309710f24f0883907572fb91be11b5b"
+    "url": "assets/js/app.4d8e3037.js",
+    "revision": "e059a684a3732d766b44d3bde005e556"
   },
   {
     "url": "bettercensor/index.html",
@@ -155,27 +155,27 @@ self.__precacheManifest = [
   },
   {
     "url": "discord.html",
-    "revision": "619062d32b9ce0db0ddeffc22ecc5811"
+    "revision": "288980e8fdb0ccec4f16db60e7130108"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "12e56b5725d9e10ad179895ca3ad695d"
+    "revision": "0483d36227b8ae680ff7c44ece24b474"
   },
   {
     "url": "docs/betterinvites/index.html",
-    "revision": "aa71e9bbee77d5d0f8cad1613dd8274a"
+    "revision": "a6469a992a160b22ade7b7e766d9be1c"
   },
   {
     "url": "docs/betternotes/index.html",
-    "revision": "e6159bf4b27596e2e0e444fe870dc811"
+    "revision": "351669d6dad46fb5595828634ecfa1f6"
   },
   {
     "url": "docs/index.html",
-    "revision": "506e6f400da9933eff7a5987d8309695"
+    "revision": "f90513789d19fb6f12acd99e0055651f"
   },
   {
     "url": "index.html",
-    "revision": "3b01dbf4f10079a31e5f93069fcca4dd"
+    "revision": "155b576e1d73da4f6f857bbe8f0e2cd1"
   },
   {
     "url": "logos/full.png",
@@ -184,6 +184,10 @@ self.__precacheManifest = [
   {
     "url": "logos/sq-rn.png",
     "revision": "cb908c5f825336218a3c2a5f0195f451"
+  },
+  {
+    "url": "media/ezgif-2-80ca74867615[1].gif",
+    "revision": "0a011f26fd5583dcc84b762bede0f477"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
