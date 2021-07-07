@@ -26,47 +26,46 @@
 </template>
 
 <script>
-  import '../../styles/index.styl';
-  export default {
-    data () {
-      return {
-        msg: 'Hello this is <Status-BotCount>',
-        fetchLoading: false,
-        botCount: [
-          {
-            msg: "Loading...",
-          }
-        ],
-      }
-    },
-    async mounted() {
-      if (this.botCount[0].msg == "Loading...") {
-        console.log("Fetching data...");
-        return await this.getBotCount();
-      }
-    },
-    methods: {
-      async getBotCount() {
-        this.fetchLoading = true;
-        let headers = {
-          method: "GET",
-          headers: {
-            time: Date.now()
-          }
+export default {
+  data () {
+    return {
+      msg: 'Hello this is <Status-BotCount>',
+      fetchLoading: false,
+      botCount: [
+        {
+          msg: "Loading...",
         }
-        let resp = await fetch("https://thymedev.netlify.app/.netlify/functions/getBotCount", headers).catch(err => console.log(error));
-        try {
-          let data = await resp.json().then(data);
-          this.botCount = data
-        } catch {
-          console.log("Error occurred")
-          this.botCount = { msg: "An error occurred with connecting..." }
+      ],
+    }
+  },
+  async mounted() {
+    if (this.botCount[0].msg == "Loading...") {
+      console.log("Fetching data...");
+      return await this.getBotCount();
+    }
+  },
+  methods: {
+    async getBotCount() {
+      this.fetchLoading = true;
+      let headers = {
+        method: "GET",
+        headers: {
+          time: Date.now()
         }
-        this.fetchLoading = false;
-      },
-      formatNum(num) {
-        return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
       }
+      let resp = await fetch("https://thymedev.netlify.app/.netlify/functions/getBotCount", headers).catch(err => console.log(error));
+      try {
+        let data = await resp.json().then(data);
+        this.botCount = data
+      } catch {
+        console.log("Error occurred")
+        this.botCount = { msg: "An error occurred with connecting..." }
+      }
+      this.fetchLoading = false;
+    },
+    formatNum(num) {
+      return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
     }
   }
+}
 </script>
