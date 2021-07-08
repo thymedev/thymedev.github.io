@@ -68,6 +68,8 @@ module.exports = {
     ['meta', { property: 'og:site_name', content: 'Thyme Dev' }],
     ['meta', { property: 'og:image', content: '/assets/img/sq-rn-72.png' }],
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap' }],
+    ['script',{ async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-1GJ9K4097E' }],
+    ['script', {}, ["window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-1GJ9K4097E');"]],
   ],
   plugins: [
     ['@vuepress/html-redirect',
