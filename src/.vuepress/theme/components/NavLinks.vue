@@ -19,6 +19,14 @@
       />
     </div>
 
+    <!-- invite link -->
+    <RouterLink
+      class="ml-4 my-3 sidebar:my-0 px-4 py-2 rounded bg-green-600 hover:bg-green-700 transition duration-300"
+      to="/invite/"
+    >
+      <div class="text-gray-100">Invite</div>
+    </RouterLink>
+
     <!-- repo link -->
     <!-- <a
       v-if="repoLink"

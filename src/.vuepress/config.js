@@ -9,7 +9,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Docs', link: '/docs/' },
       { text: 'Status', link: '/status' },
-      { text: 'Discord', link: '/discord', target:'_blank' },
+      // { text: 'Discord', link: '/discord', target:'_blank' },
     ],
     sidebar: {
       // '/docs/': 'auto',
@@ -19,7 +19,6 @@ module.exports = {
           collapsable: false,
           children: [
             ['', 'Home'],
-            'invite/',
           ]
         },
         {
