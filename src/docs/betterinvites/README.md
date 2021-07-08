@@ -15,10 +15,13 @@ BetterInvites makes Discord invites more powerful by giving members who join wit
 prefix: **`b`**
 
 **`bstart`**: 
->Starts the process to create a new role invite
+>Starts the process to create a new invite role.
 >Choose to set up by choosing a invite link, or typing it
 >Then select your role(s), after you see a **Done!**, everything is set up!
 ![](/media/BetterInvites_bstart.png){.bg-gray-700}
+
+**`blist`**:
+>Lists the set up invite roles.
 
 **`bhelp`**:
 >Displays helpful information (basically this page)
