@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "7b600d046bd5754884b7ccee92caf715"
+    "revision": "aae933b2b6366dd627abcd98c5dc9b38"
   },
   {
     "url": "about.html",
-    "revision": "19b95441b64cedcac4a01539b6466e1c"
+    "revision": "06bbac5afe52bbb9c7ead4eeca674488"
   },
   {
     "url": "assets/css/0.styles.74a4b53a.css",
@@ -166,8 +166,8 @@ self.__precacheManifest = [
     "revision": "e13a46bb882cda07b5daae408ac7be2b"
   },
   {
-    "url": "assets/js/app.f8195714.js",
-    "revision": "29e2425767f3c0be00d328fc8f05e331"
+    "url": "assets/js/app.760d7744.js",
+    "revision": "bf1f4f9194b90ad345fb39834618f838"
   },
   {
     "url": "bettercensor/index.html",
@@ -187,47 +187,47 @@ self.__precacheManifest = [
   },
   {
     "url": "discord.html",
-    "revision": "7021bdb7394a1e1b519e90a01721a94f"
+    "revision": "c444f207129d7fc0e8207aad4de8ade1"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "0a620219b1e533608d89d408937147c0"
+    "revision": "191e6b340e32f64c2f91d668e469616a"
   },
   {
     "url": "docs/betterinvites/index.html",
-    "revision": "5f2067f0167cdfbf678e1d9771645aa6"
+    "revision": "1b887a7a12b87ed670f54c61b5c66374"
   },
   {
     "url": "docs/betternotes/index.html",
-    "revision": "6a7ff255c135e11e7be036065d1bfd11"
+    "revision": "9136819c7d37ab123017af8b3045cb61"
   },
   {
     "url": "docs/index.html",
-    "revision": "894fb5fa03de7ccf96d48c940aab2c4c"
+    "revision": "a3495a51ea326624cd65c9798a6d6d52"
   },
   {
     "url": "index.html",
-    "revision": "4cf4bba071c483e5a99aa7deb48c34ee"
+    "revision": "9de5b973d00f10184c4856f333d4f293"
   },
   {
     "url": "invite/bettercensor.html",
-    "revision": "b4ee739bae56ae220ef8a5719941e40a"
+    "revision": "53d3a439fdc478000e9f31a76b6c130b"
   },
   {
     "url": "invite/betterinvites.html",
-    "revision": "21225c93342238bbea0d7941f20e5a44"
+    "revision": "7872484add8d6ce6a6c78af1094f9c9b"
   },
   {
     "url": "invite/betternotes.html",
-    "revision": "af05c59e7adc68e762b5a37dc524cd38"
+    "revision": "bec6362a16f56dd846e1673350929f99"
   },
   {
     "url": "invite/index.html",
-    "revision": "5a70792a0b7d062a5e9c3c23e86c6b34"
+    "revision": "a2a50e7fca7581ade73a58e9064fd4df"
   },
   {
     "url": "legal.html",
-    "revision": "67f7034580aec9eca84c90cf66fcdca8"
+    "revision": "0ab8b76c07909ffcddc39db32f2d8bf3"
   },
   {
     "url": "logos/full.png",
@@ -255,7 +255,7 @@ self.__precacheManifest = [
   },
   {
     "url": "status.html",
-    "revision": "a8826c7b0603211043c07147f7658f45"
+    "revision": "e03e4230932b7a718c2974a9762d4285"
   },
   {
     "url": "terms-of-service/index.html",
