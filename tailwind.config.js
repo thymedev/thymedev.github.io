@@ -23,6 +23,9 @@ module.exports = {
         'thyme-links': '#3eaf7c',
         'discord-bg-primary': '#36393f'
       },
+      minHeight: {
+        '5r': '5rem',
+      },
       screens: {
         'xs': '320px',
         'sidebar': '719px',
