@@ -1,5 +1,5 @@
 ---
-description: "The best bot for all your censoring needs. 100% free, forever. BetterCensor is the powerful Discord moderation bot that automatically keeps your servers clean, with Google Sheets Integration, for powerful editing, and sharing anywhere."
+description: "BetterCensor is the powerful Discord moderation bot that automatically keeps your servers clean, with Google Sheets Integration, for powerful editing, and sharing anywhere."
 ---
 
 # BetterCensor
