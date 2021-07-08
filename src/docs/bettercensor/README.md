@@ -15,7 +15,8 @@ BetterCensor is the powerful Discord moderation bot that automatically keeps you
 - 100% free, forever
 - Advanced integration with Google sheets to easily create, edit and share censor lists
 - Webhook based censoring to make censoring seemless
-- Options for ###, \*\*\*, or ![spoilers](/media/ezgif-2-80ca74867615[1].gif)
+- Options for ###, \*\*\*, or
+![spoilers](/media/ezgif-2-80ca74867615[1].gif)
 
 
 ## Commands
