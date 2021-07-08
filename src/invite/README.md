@@ -1,6 +1,6 @@
 # Invites
 
-Choose the bot you'd like to invite below:
+Choose the bots you'd like to invite below:
 
 <Invites />
 

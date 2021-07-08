@@ -20,6 +20,8 @@ module.exports = {
         'fcfcfc': '#fcfcfc',
         'gray-150': '#EEEFF2',
         'gray-175': '#E9EBEE',
+        'thyme-links': '#3eaf7c',
+        'discord-bg-primary': '#36393f'
       },
       screens: {
         'xs': '320px',
