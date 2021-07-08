@@ -18,7 +18,7 @@ prefix: **`b`**
 >Starts the process to create a new invite role.
 >Choose to set up by choosing a invite link, or typing it
 >Then select your role(s), after you see a **Done!**, everything is set up!
-![](/media/BetterInvites_bstart.png){.bg-gray-700}
+![Image of /bstart command, with "Select" and "Link" buttons below](/media/BetterInvites_bstart.png){.bg-discord-bg-primary}
 
 **`blist`**:
 >Lists the set up invite roles.
