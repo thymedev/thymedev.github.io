@@ -83,6 +83,12 @@ module.exports = {
       }
     ],
   ],
+  markdown: {
+    extendMarkdown: md => {
+      // use more markdown-it plugins!
+      md.use(require('markdown-it-attrs'))
+    }
+  },
   postcss: {
     plugins: [
       require("tailwindcss")("./tailwind.config.js"),
