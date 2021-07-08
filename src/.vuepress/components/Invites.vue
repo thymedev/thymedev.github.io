@@ -1,11 +1,12 @@
 <template>
   <div class="docs-grid pt-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4">
     <template v-for="i in inviteLinks">
-      <router-link :key="i.path" :to="i.path" class="docs-grid-item">
+      <a :key="i.path" :href="i.frontmatter.canonicalUrl" target="_blank" rel="noopener" class="docs-grid-item">
         <div class="rounded-sm shadow-sm hover:shadow-md transition duration-300 bg-gray-200 text-center px-4 py-6 sm:py-8 overflow-x-auto">
-          <div class="text-lg sm:text-xl">Invite {{ i.title }}</div>
+          <div class="text-sm text-gray-400 pb-1">Invite</div>
+          <div class="text-lg sm:text-xl">{{ i.title }}</div>
         </div>
-      </router-link>
+      </a>
     </template>
   </div>
 </template>
@@ -20,7 +21,7 @@ export default {
   computed: {
     inviteLinks: function () {
       return this.$site.pages.filter(function (page) {
-        const regex = /\/invite\/(?=\w)/gm;
+        const regex = /\/invite\/(?=\w)/g;
         return page.path.match(regex)
       })
     }

@@ -1,0 +1,7 @@
+---
+title: BetterInvites
+description: Invite the bot to your Discord server! - BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles.BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles.
+canonicalUrl: https://discord.com/api/oauth2/authorize?client_id=854104839331512400&permissions=2416438512&scope=bot
+---
+
+<Redirect :to="$frontmatter.canonicalUrl" />
