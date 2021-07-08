@@ -3,12 +3,13 @@ description: "The bot built for one job: to make note taking and sharing even mo
 ---
 
 # BetterNotes
+<div class="text-xl">The best bot for all your note taking needs. 100% free, forever.</div>
 The bot built for one job: to make note taking and sharing even more powerful
 
-## Features
-Create, edit, and share notes with anyone on discord
+## [Support server](https://thymedev.github.io/discord)
+## [Invite me](https://thymedev.github.io/invite/betternotes)
 
-## Documentation
+## Commands
 prefix: **`n`**
 To create multiple work note titles, use `""`
 
@@ -54,14 +55,23 @@ To create multiple work note titles, use `""`
 ## Something is not working!
 ### I want to use this privately
 Use the commands in the direct message channel with the bot. All commands are still supported.
+
 ### My notes are not showing
-If you set your notes to too many characters, discord will not be able to show an embed with that many.
+If you set your notes to too many characters, Discord display the embed.
 Try to limit large blocks of text (>2000 characters) to multiple notes.
 ### For some reason the bot is not working
-If the bot is not working, try reinviting it with [this link](https://discord.com/api/oauth2/authorize?client_id=855324401373544458&permissions=519232&scope=bot)
+If the bot is not working, try reinviting it [here](https://thymedev.github.io/invite/betternotes).
+
 ### I want to save a file
 Saving files currently is not supported. There are no plans for this as you can just as easily save a note with the file's url.
+
 ### Syntax
 Because this is an embed, all normal discord markdown is supported. [read more](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
 `[text](link)` can be used to apply the link to the text.
-### [Support server](https://thymedev.github.io/discord)
+
+## More Info
+### Suggestions and bug reports
+Please direct all suggestions and bug reports to [our support server](https://thymedev.github.io/discord)
+
+### Future plans
+Better support for shared files
