@@ -3,7 +3,10 @@ description: "BetterInvites makes Discord invites more powerful by giving member
 ---
 
 # BetterInvites
-### BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles.
+
+<div class="text-xl">The best bot for all your invite roles. 100% free, forever.</div>
+
+BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles.
 
 ## [Invite me](https://thymedev.github.io/invite/betterinvites)
 ## [Support server](https://thymedev.github.io/discord.html)
@@ -19,7 +22,6 @@ prefix: **`b`**
 
 **`bhelp`**:
 >Displays helpful information (basically this page)
-
 
 ## Something is not working!
 ### `bstart` buttons are doing nothing!
