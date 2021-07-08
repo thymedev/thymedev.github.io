@@ -6,7 +6,7 @@ description: "BetterInvites makes Discord invites more powerful by giving member
 ### BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles.
 
 ## [Invite me](https://thymedev.github.io/invite/betterinvites)
-### [Support server](https://thymedev.github.io/discord.html)
+## [Support server](https://thymedev.github.io/discord.html)
 
 ## Commands
 prefix: **`b`**
@@ -15,7 +15,7 @@ prefix: **`b`**
 >Starts the process to create a new role invite
 >Choose to set up by choosing a invite link, or typing it
 >Then select your role(s), after you see a **Done!**, everything is set up!
-![](/media/BetterInvites_bstart.png)
+![](/media/BetterInvites_bstart.png){.bg-gray-700}
 
 **`bhelp`**:
 >Displays helpful information (basically this page)
