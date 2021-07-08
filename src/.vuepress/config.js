@@ -50,7 +50,7 @@ module.exports = {
     docsDir: 'src',
     editLinks: true,
     editLinkText: 'Help us improve this page',
-    lastUpdated: 'Last updated',
+    lastUpdated: false,
     logo: '/assets/img/sq-rn-48.png',
     activeHeaderLinks: true, // Default: true - By default, the nested header links and the hash in the URL are updated as the user scrolls to view the different sections of the page.
     displayAllHeaders: true, // Default: false

@@ -1,6 +1,6 @@
 ---
-title: Discord
-description: Join the official Thyme Dev Discord for updates, support requests, and a small community of friendly developers.
+title: BetterNotes
+description: Invite the bot to your Discord server! - Practical, user-friendly Discord bots for getting things done.
 canonicalUrl: https://discord.com/api/oauth2/authorize?client_id=855324401373544458&permissions=519232&scope=bot
 ---
 
