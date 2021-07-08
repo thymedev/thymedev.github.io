@@ -8,7 +8,7 @@ description: "BetterCensor is the powerful Discord moderation bot that automatic
 
 BetterCensor is the powerful Discord moderation bot that automatically keeps your servers clean, with Google Sheets Integration, for powerful editing, and sharing anywhere.
 
-## [Invite me](https://thymedev.github.io/invite/betterinvites)
+## [Invite me](https://thymedev.github.io/invite/bettercensor)
 ## [Support server](https://thymedev.github.io/discord.html)
 
 ## Features
@@ -50,7 +50,7 @@ prefix: **`c`**
 
 ## Something is not working!
 ### Messages are not being censored
-To ensure the bot has all the permissions necessary, try reinviting it [here](https://thymedev.github.io/invite/betterinvites).
+To ensure the bot has all the permissions necessary, try reinviting it [here](https://thymedev.github.io/invite/bettercensor).
 Once it is added, a message will be sent. If you see any missing permissions in that message, critical functions may not work.
 
 ## More Info
