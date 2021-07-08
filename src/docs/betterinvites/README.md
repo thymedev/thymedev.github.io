@@ -1,12 +1,12 @@
 ---
-description: "BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles."
+description: "BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles"
 ---
 
 # BetterInvites
 
 <div class="text-xl">The best bot for all your invite roles. 100% free, forever.</div>
 
-BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles.
+BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles
 
 ## [Invite me](https://thymedev.github.io/invite/betterinvites)
 ## [Support server](https://thymedev.github.io/discord.html)
