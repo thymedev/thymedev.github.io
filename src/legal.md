@@ -22,3 +22,8 @@ This site uses Google Analytics. We do not consider DNT (Do Not Track) headers.
 Thyme's Discord bots run on the Discord platform, which means your data also falls under the [Discord Privacy Policy](https://discord.com/privacy).
 
 If you would like to submit a GDPR or CCPA request, please [contact us on Discord](/discord).
+
+
+## Licenses
+
+- [Feather Icons](https://feathericons.com/) - [MIT License](https://github.com/feathericons/feather/blob/master/LICENSE)

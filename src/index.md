@@ -36,6 +36,7 @@ metaTitle: "Home | Thyme Dev"
   </div>
 </div>
 
-<div class="px-4 pt-8 pb-6 bg-gray-800 text-gray-400 text-center flex flex-no-wrap align-center justify-center">
-  <div>&copy; 2021–Present, by Thyme Dev 💝</div>&ensp;&middot;&ensp;<router-link to="/legal">Terms/Privacy</router-link>
+<div class="px-4 py-12 md:py-8 bg-gray-800 text-gray-400 text-center">
+  <div class="py-2">&copy; 2021–Present, by Thyme Dev 💝</div>
+  <router-link to="/legal">Terms/Privacy</router-link>
 </div>

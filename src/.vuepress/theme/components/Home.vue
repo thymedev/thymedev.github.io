@@ -3,8 +3,8 @@
     class="home w-full bg-green-700"
     :aria-labelledby="data.heroText !== null ? 'main-title' : null"
   >
-    <div class="px-4 py-8 sm:px-6 sm:py-12 bg-gray-200 bg-cover bg-fixed bg-blend-darken" style="min-height:75vh;background-image:linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.05)),url('/img/pawel-czerwinski-95QNbCkVERM-unsplash.jpg');">
-      <div class="w-full pt-4 md:pt-8">
+    <div class="px-4 py-8 sm:px-6 sm:py-12 bg-gray-200 bg-cover bg-fixed bg-blend-darken" style="background-image:linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.05)),url('/img/pawel-czerwinski-95QNbCkVERM-unsplash.jpg');">
+      <div class="w-full pt-8">
         <div class="overflow-x-hidden md:w-4/5 max-w-screen-md mx-auto p-4 text-center drop-shadow-2xl text-5xl sm:text-6xl leading-none sm:leading-tight font-bold bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">
           Practical, user-friendly Discord bots for getting things done.
         </div>

@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-100 min-h-5r">
     <div class="theme-default-content content__default">
-      <router-link to="/legal">Terms of Use | Privacy Policy</router-link>
+      <router-link to="/legal">Terms of Use&ensp;&middot;&ensp;Privacy Policy</router-link>
     </div>
   </div>
 </template>
