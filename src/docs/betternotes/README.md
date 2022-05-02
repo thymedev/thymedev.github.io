@@ -62,8 +62,11 @@ Try to limit large blocks of text (>2000 characters) to multiple notes.
 ### For some reason the bot is not working
 If the bot is not working, try reinviting it [here](https://thymedev.github.io/invite/betternotes).
 
-### I want to save a file
-Saving files currently is not supported. There are no plans for this as you can just as easily save a note with the file's url.
+### I want to export my notes
+You can easily copy-paste your notes out of Discord and save them elsewhere. Use `nlist` to display your notes list and `nread` to open each note. Each note will be displayed in an easy-to-copy Discord embed.
+
+### I want to attach a file
+Attaching files is currently not supported. There are no plans for this, since you can upload your file to another platform, ie. [Google Drive](https://drive.google.com), [Wormhole](https://wormhole.app/), etc. and paste that link into your BetterNotes note.
 
 ### Syntax
 Because this is an embed, all normal discord markdown is supported. [read more](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
