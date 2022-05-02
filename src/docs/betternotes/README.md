@@ -1,6 +1,13 @@
 ---
 description: "The bot built for one job: to make note taking and sharing even more powerful"
+meta:
+  - name: og:image
+    content: "./betternotes.png"
+  - name: og:image:width
+    content: 72
 ---
+
+<img src="./betternotes.png" alt="logo" class="w-24">
 
 # BetterNotes
 <div class="text-xl">The best bot for all your note taking needs. 100% free, forever.</div>
