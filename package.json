@@ -1,6 +1,6 @@
 {
   "name": "thymedev",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev src",
@@ -18,7 +18,6 @@
     "vuepress": "^1.5.3"
   },
   "dependencies": {
-    "html-redirections": "^1.1.0",
     "markdown-it-attrs": "^4.0.0"
   }
 }

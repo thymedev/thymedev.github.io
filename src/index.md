@@ -6,9 +6,9 @@ metaTitle: "Home | Thyme Dev"
 
 <div class="px-4 py-12 sm:px-6 sm:py-16 grid grid-cols-1 md:grid-cols-2 bg-gray-200">
   <div class="w-full pt-4 md:pt-8 text-center">
-    <span class="ml-2 px-3 py-1 text-sm font-bold bg-green-600 text-white rounded-lg">Cake Series</span>
+    <span class="ml-2 px-3 py-1 text-sm font-bold bg-green-600 text-white rounded-lg">Standard Series</span>
     <div class="text-3xl font-bold pt-4">Simplify your life with style.</div>
-    <div class="text-lg pt-2 px-2 mx-auto lg:w-1/2">Cake Series Discord Bots are ready for you to add and use immediately.</div>
+    <div class="text-lg pt-2 px-2 mx-auto lg:w-1/2">Thyme's Discord Bots are ready for you to add and use immediately.</div>
     <div class="py-6 px-8 lg:w-1/4 mx-auto">
       <router-link to="/invite">
         <div class="bg-green-600 text-gray-200 px-4 py-2 transition hover:bg-green-700 shadow-sm hover:shadow rounded-lg cursor-pointer font-semibold select-none">Get Started</div>
@@ -26,8 +26,8 @@ metaTitle: "Home | Thyme Dev"
     <div class="text-3xl font-bold pt-4">Take your server to the next level.</div>
     <div class="text-lg pt-2 px-2 mx-auto lg:w-1/2">Self-host your own Coffee Series Discord Bot for even more advanced features.</div>
     <div class="py-6 px-8 lg:w-1/4 mx-auto">
-      <router-link to="/invite">
-        <div class="bg-blue-600 text-gray-200 px-4 py-2 transition hover:bg-blue-500 shadow-sm hover:shadow rounded-lg cursor-pointer font-semibold select-none">Coming soon</div>
+      <router-link to="/coffee">
+        <div class="bg-blue-600 text-gray-200 px-4 py-2 transition hover:bg-blue-500 shadow-sm hover:shadow rounded-lg cursor-pointer font-semibold select-none">Get Started</div>
       </router-link>
     </div>
   </div>

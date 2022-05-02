@@ -8,6 +8,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Docs', link: '/docs/' },
+      { text: 'Coffee', link: '/coffee/' },
       { text: 'Status', link: '/status' },
       // { text: 'Discord', link: '/discord', target:'_blank' },
     ],
@@ -40,6 +41,30 @@ module.exports = {
           collapsable: false,
           children: [
             ['betternotes/', 'Home'],
+          ]
+        },
+      ],
+      '/coffee/': [
+        {
+          title: 'Coffee Series',
+          collapsable: false,
+          children: [
+            ['', 'Home'],
+            ['start', 'Getting Started'],
+          ]
+        },
+        {
+          title: 'Emotes',
+          collapsable: false,
+          children: [
+            ['emotes/', 'Home'],
+          ]
+        },
+        {
+          title: 'Hellohook',
+          collapsable: false,
+          children: [
+            ['hellohook/', 'Home'],
           ]
         },
       ],
