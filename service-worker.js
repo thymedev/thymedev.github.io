@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a240f7b7dc1d7f3fcd1dcd0c8f49a27e"
+    "revision": "12cb6367cca1df26ffe7fef494b0afe8"
   },
   {
     "url": "about.html",
-    "revision": "74f7d84158e64ffc742b15c0745cc4eb"
+    "revision": "68b057aba9a2a5d8ba497ff6bd857500"
   },
   {
-    "url": "assets/css/0.styles.3ac34224.css",
-    "revision": "8b224e3e1bd156a77b465d103ae9caf2"
+    "url": "assets/css/0.styles.ab4c84f3.css",
+    "revision": "62ef86c36dce37262a52502e673ace54"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -74,8 +74,8 @@ self.__precacheManifest = [
     "revision": "11cfdd5ba5a74423fcb1ed35f967f0ac"
   },
   {
-    "url": "assets/js/12.aae96504.js",
-    "revision": "58a791e0ab53d76004771e64f3c45d5f"
+    "url": "assets/js/12.a6447f04.js",
+    "revision": "eaff075346d632c4888f4573e39d9267"
   },
   {
     "url": "assets/js/13.16a0264e.js",
@@ -102,12 +102,12 @@ self.__precacheManifest = [
     "revision": "330598e2b982f0a4ebddefe59e0fbdd3"
   },
   {
-    "url": "assets/js/19.dcc84c6f.js",
-    "revision": "061206ce9c5ceae54e7b44f4ed283942"
+    "url": "assets/js/19.35eae30c.js",
+    "revision": "5db5b9c0177e20608ed35ff4c9fa58e9"
   },
   {
-    "url": "assets/js/2.0a47c48d.js",
-    "revision": "b1c9f3e7a7d6084bc239aef9522e8e60"
+    "url": "assets/js/2.6cec4af6.js",
+    "revision": "b9751b92001626526a15877953b9165d"
   },
   {
     "url": "assets/js/20.55de1e57.js",
@@ -126,8 +126,8 @@ self.__precacheManifest = [
     "revision": "b888adae189f76e057a566d171c98ce2"
   },
   {
-    "url": "assets/js/24.b41f2e24.js",
-    "revision": "dbbc853089079f0a99344828a3336b56"
+    "url": "assets/js/24.45999f50.js",
+    "revision": "df828cc8b04f9a0c01d21edad76afd47"
   },
   {
     "url": "assets/js/25.311b8670.js",
@@ -166,8 +166,8 @@ self.__precacheManifest = [
     "revision": "8dc43974d08d0e221a06a6ecc7d0e910"
   },
   {
-    "url": "assets/js/app.205fd9de.js",
-    "revision": "ab4abc31cc83debee527f7ae8aef5d2c"
+    "url": "assets/js/app.8a566e3a.js",
+    "revision": "b825836ec5dd488b631f5e4e671f651e"
   },
   {
     "url": "bettercensor/index.html",
@@ -187,23 +187,23 @@ self.__precacheManifest = [
   },
   {
     "url": "discord.html",
-    "revision": "ad30f7be08f2298a4a688ca1a16d23ee"
+    "revision": "a38b78ecd21ffacafc20ac8b33123577"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "0f76c15cc470a9586ea797d7e22faffe"
+    "revision": "1996ed9bfb06eeee28337f3df670499e"
   },
   {
     "url": "docs/betterinvites/index.html",
-    "revision": "3c4676905eb7d0114f8121b78c20a8ab"
+    "revision": "fb6bbcd0202d5dd80f9ab379e7632046"
   },
   {
     "url": "docs/betternotes/index.html",
-    "revision": "a29f107740b41aba8cafb4b8088bbe44"
+    "revision": "814e1edd7d17f850dbefbd5f87e75188"
   },
   {
     "url": "docs/index.html",
-    "revision": "6e34987848f800a1611b0522b18555c4"
+    "revision": "dafb16525fd2456227a952f77cc20358"
   },
   {
     "url": "img/pawel-czerwinski-95QNbCkVERM-unsplash.jpg",
@@ -211,27 +211,27 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "78e44cd067bad87423868ae039cb9d72"
+    "revision": "322bdac9bc7523aa11062171f1c426a3"
   },
   {
     "url": "invite/bettercensor.html",
-    "revision": "7e2c2744aa6d2bfe193244b67829e76c"
+    "revision": "d7bcae868fa565b70d662e3256453f81"
   },
   {
     "url": "invite/betterinvites.html",
-    "revision": "7a9ee99186caa7040ebb82087b6e53ff"
+    "revision": "4f9ce720b8c1e66ea1638ae0b66cdae2"
   },
   {
     "url": "invite/betternotes.html",
-    "revision": "84ca4f6c5880edf864831bf81eda2f71"
+    "revision": "a300db2ae5fe0e6b1170ccbf440de510"
   },
   {
     "url": "invite/index.html",
-    "revision": "73fc65d3b9286dd209bd89b6efadb85b"
+    "revision": "6f6ba3ce0f31d3d21627d021e5648da6"
   },
   {
     "url": "legal.html",
-    "revision": "a41104d63a59e089794bc68b423414f0"
+    "revision": "137ecc560366d3bf3600ec4527eb8ddd"
   },
   {
     "url": "logos/full.png",
@@ -259,7 +259,7 @@ self.__precacheManifest = [
   },
   {
     "url": "status.html",
-    "revision": "980bfd52725b1d4310f6ef284da2631e"
+    "revision": "769e159caf62fb18b06ebe7e89a44365"
   },
   {
     "url": "terms-of-service/index.html",
