@@ -1,14 +1,14 @@
 ---
-description: "Invite a Coffee Series bot into your Discord :) Thyme Dev Coffee Series is a powerful collection of self-hosted, open-source Discord bots."
+description: "Thyme Coffee Series is a powerful collection of self-hosted, open-source Discord bots. Add the Coffee Series repo to your Red DiscordBot."
 ---
 
 # Getting Started
 
-Coffee Series is a collection of self-hosted Discord Bots that provide advanced features for your server.
+Thyme Coffee bots are self-hosted Discord bots that can take your Discord server to the next level.
 
-Because these bots are so powerful, they can't be invited into your Discord :(
-
-But you can run them off your computer for a Discord server you own :)
+To get started, you will need to keep the Discord bot running somewhere
+- Run the bot off your PC (PC must be on for bot to work, free)
+- Run the bot in a server like Amazon AWS/Google GCP (paid service)
 
 It's very easy, takes about 10-20 minutes:
 
@@ -25,7 +25,7 @@ It's very easy, takes about 10-20 minutes:
 
 **Red DiscordBot** supports adding plugins ("cogs") to make the bot do more stuff.
 
-**coffee-cogs** is a repository of cogs I've made, that you can add.
+**coffee-cogs** is a collection ("repository") of plugins ("cogs") you can add to your **Red DiscordBot**.
 
 Type these commands in a DM with your bot:
 ```

@@ -2,6 +2,8 @@
 description: "Create your own welcome bot with a custom profile picture! Choose between a regular message or an embed welcome, with a ping option."
 ---
 
+<img src="./hellohook.jpg" alt="logo" class="w-24 rounded">
+
 # Hellohook
 <div class="text-xl">Create your own welcome bot with a custom profile picture! Choose between a regular message or an embed welcome, with a ping option.</div>
 

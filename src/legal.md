@@ -27,3 +27,6 @@ If you would like to submit a GDPR or CCPA request, please [contact us on Discor
 ## Licenses
 
 - [Feather Icons](https://feathericons.com/) - [MIT License](https://github.com/feathericons/feather/blob/master/LICENSE)
+- Home - [Photo by Pawel Czerwinski on Unsplash](https://unsplash.com/photos/95QNbCkVERM)
+- Emotes - [Photo by Bruno Figueiredo on Unsplash](https://unsplash.com/photos/ISppK6Jd1K0)
+- Hellohook - [Photo by Yerlin Matu on Unsplash](https://unsplash.com/photos/GtwiBmtJvaU)

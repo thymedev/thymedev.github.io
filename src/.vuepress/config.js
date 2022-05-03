@@ -46,7 +46,7 @@ module.exports = {
       ],
       '/coffee/': [
         {
-          title: 'Coffee Series',
+          title: 'Coffee Series ☕',
           collapsable: false,
           children: [
             ['', 'Home'],

@@ -1,6 +1,6 @@
-# Coffee Series
+# Coffee Series ☕
 
-Coffee Series is a collection of self-hosted Discord Bots that provide advanced features for your server.
+Thyme Coffee is a collection of self-hosted Discord Bots that provide advanced features for your server.
 
 All Thyme Coffee bots are open-source!
 
