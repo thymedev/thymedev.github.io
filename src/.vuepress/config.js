@@ -68,7 +68,14 @@ module.exports = {
           ]
         },
         {
-          title: 'coffee-cogs',
+          title: 'Msgmover',
+          collapsable: false,
+          children: [
+            ['msgmover/', 'Home'],
+          ]
+        },
+        {
+          title: 'More bots',
           collapsable: false,
           children: [
             ['bartender/', 'bartender'],
@@ -77,7 +84,6 @@ module.exports = {
             ['dmreply/', 'dmreply'],
             ['jsonrequest/', 'jsonrequest'],
             ['loveplay/', 'loveplay'],
-            ['msgmover/', 'msgmover'],
             ['pinboard/', 'pinboard'],
             ['quarantine/', 'quarantine'],
             ['sendhook/', 'sendhook'],
