@@ -7,7 +7,7 @@ description: "The Discord Bot for Moving Messages Between Channels and Servers. 
 
 # Msgmover
 
-<CogHero cog="msgmover" />
+<CogHero cog="msgmover" :desc="$frontmatter.description" />
 
 The Discord Bot for Moving Messages Between Channels and Servers
 

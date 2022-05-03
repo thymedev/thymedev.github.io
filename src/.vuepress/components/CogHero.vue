@@ -1,8 +1,11 @@
 <template>
   <div>
-    <div class="pt-4 pb-10 transition-opacity duration-150" v-if="this.cogdata == null">
-      <div class="p-4 animate-pulse bg-gray-200 overflow-x-hidden">
-        Loading...
+    <div class="transition-opacity duration-150" v-if="this.cogdata == null">
+      <div class="text-xl whitespace-pre-line">{{ this.$props.desc || "⏳" }}</div>
+      <div class="pt-4 pb-10">
+        <div class="p-4 animate-pulse bg-gray-200 overflow-x-hidden">
+          Loading...
+        </div>
       </div>
     </div>
     <div class="transition-opacity duration-150" v-else>

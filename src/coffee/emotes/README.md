@@ -7,7 +7,7 @@ description: "Custom emote solution for non-nitro users. Use animated emotes in 
 
 # Cherry Emotes
 
-<CogHero cog="emotes" />
+<CogHero cog="emotes" :desc="$frontmatter.description" />
 
 
 The emotes cog is powerful in its support to search through a public spreadsheet using the Google Sheets API.

@@ -7,7 +7,7 @@ description: "Create your own welcome bot with a custom profile picture! Choose 
 
 # Hellohook
 
-<CogHero cog="hellohook" />
+<CogHero cog="hellohook" :desc="$frontmatter.description" />
 
 
 ## Drafting your Webhook Message

@@ -60,12 +60,14 @@ To create multiple work note titles, use `""`
 > Displays helpful information (basically this)
 
 ## Something is not working!
+
 ### I want to use this privately
 Use the commands in the direct message channel with the bot. All commands are still supported.
 
 ### My notes are not showing
 If you set your notes to too many characters, Discord display the embed.
 Try to limit large blocks of text (>2000 characters) to multiple notes.
+
 ### For some reason the bot is not working
 If the bot is not working, try reinviting it [here](https://thymedev.github.io/invite/betternotes).
 
@@ -73,7 +75,7 @@ If the bot is not working, try reinviting it [here](https://thymedev.github.io/i
 You can easily copy-paste your notes out of Discord and save them elsewhere. Use `nlist` to display your notes list and `nread` to open each note. Each note will be displayed in an easy-to-copy Discord embed.
 
 ### I want to attach a file
-Attaching files is currently not supported. There are no plans for this, since you can upload your file to Discord, right-click, and copy file URL to save in the note.
+We recommend uploading your file to Discord, and then copying the file/download URL to save into your note.
 
 You can also upload to another platform if you need more than 8MB, ie. [Google Drive](https://drive.google.com), [Wormhole](https://wormhole.app/), etc. and paste that link into your BetterNotes note.
 
