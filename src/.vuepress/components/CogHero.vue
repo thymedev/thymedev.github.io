@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="pt-4 transition-opacity duration-150" v-if="this.cogdata == null">
+    <div class="pt-4 pb-10 transition-opacity duration-150" v-if="this.cogdata == null">
       <div class="p-4 animate-pulse bg-gray-200 overflow-x-hidden">
         Loading...
       </div>
