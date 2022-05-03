@@ -39,7 +39,9 @@ export default {
     }
   },
   async created() {
-    if (process.client) {
+    if (process.server) {
+      return
+    } else {
       let cogUrl = "https://raw.githubusercontent.com/coffeebank/coffee-cogs/master/"+this.$props.cog+"/info.json"
       let resp = await fetch(cogUrl).catch(err => console.log(err));
       let data = await resp.json();
