@@ -4,10 +4,9 @@ description: "Custom emote solution for non-nitro users. Use animated emotes in 
 
 <img src="./emotes.jpg" alt="logo" class="w-24 rounded">
 
-# Emotes
-<div class="text-xl">Custom emote solution for non-nitro users. Use animated emotes in your server, even without Nitro. Make your own emote storage spreadsheet and generate emote-like image links for use in DMs and elsewhere.</div>
+# Cherry Emotes
 
-> [Support server](https://thymedev.github.io/discord)
+<CogHero cog="emotes" />
 
 
 The emotes cog is powerful in its support to search through a public spreadsheet using the Google Sheets API.

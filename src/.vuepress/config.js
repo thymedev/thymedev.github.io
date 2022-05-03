@@ -54,7 +54,7 @@ module.exports = {
           ]
         },
         {
-          title: 'Emotes',
+          title: 'Cherry Emotes',
           collapsable: false,
           children: [
             ['emotes/', 'Home'],
@@ -65,6 +65,24 @@ module.exports = {
           collapsable: false,
           children: [
             ['hellohook/', 'Home'],
+          ]
+        },
+        {
+          title: 'coffee-cogs',
+          collapsable: false,
+          children: [
+            ['bartender/', 'bartender'],
+            ['coffeetime/', 'coffeetime'],
+            ['coffeetools/', 'coffeetools'],
+            ['dmreply/', 'dmreply'],
+            ['jsonrequest/', 'jsonrequest'],
+            ['loveplay/', 'loveplay'],
+            ['msgmover/', 'msgmover'],
+            ['pinboard/', 'pinboard'],
+            ['quarantine/', 'quarantine'],
+            ['sendhook/', 'sendhook'],
+            ['spotifyembed/', 'spotifyembed'],
+            ['websearch/', 'websearch'],
           ]
         },
       ],

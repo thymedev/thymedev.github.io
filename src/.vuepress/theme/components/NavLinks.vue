@@ -22,7 +22,7 @@
     <!-- invite link -->
     <RouterLink
       class="ml-4 my-3 sidebar:my-0 px-4 py-2 rounded bg-green-600 hover:bg-green-700 transition duration-300"
-      to="/invite/"
+      to="/invite/" title="Invite Thyme bots to your Discord"
     >
       <div class="text-gray-100">Invite</div>
     </RouterLink>
@@ -30,7 +30,7 @@
     <!-- support server link -->
     <RouterLink
       class="my-3 sidebar:my-0 px-4 py-2 rounded bg-gray-300 hover:bg-gray-200 transition duration-300"
-      to="/discord/" alt="Join Support Discord"
+      to="/discord/" title="Join Support Discord"
     >
       <div class="text-gray-600">Support</div>
     </RouterLink>
