@@ -75,7 +75,7 @@ module.exports = {
           ]
         },
         {
-          title: 'More bots',
+          title: 'More cogs',
           collapsable: false,
           children: [
             ['bartender/', 'bartender'],
