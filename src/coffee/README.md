@@ -1,8 +1,12 @@
 # Thyme: Coffee Series ☕
 
-Thyme Coffee is a collection of self-hosted Discord Bots that provide advanced features for your server.
+Thyme Coffee is a collection of self-hosted Discord bots ("cogs") that provide advanced features for your server.
 
-All Thyme Coffee bots are open-source!
+Thyme Coffee bots are flexible and you can easily run more than one at the same time.
+
+All Thyme Coffee bots are free, open-source, and work as Red DiscordBot cogs!
+
+[See the Get Started guide to install Thyme Coffee >](./start.html)
 
 <div class="docs-grid pt-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4">
   <template v-for="i in this.$site.themeConfig.sidebar['/coffee/']">
