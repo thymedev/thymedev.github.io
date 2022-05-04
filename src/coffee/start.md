@@ -27,12 +27,15 @@ It's very easy, takes about 10-20 minutes:
 
 **coffee-cogs** is a collection ("repository") of plugins ("cogs") you can add to your **Red DiscordBot**.
 
-Type these commands in a DM with your bot:
+When you're ready, browse the list of Thyme Coffee bots and find one you like!
+
+You will see an **Install** box. Just copy-paste the commands and enter them into a chat with your bot:
+
+> Replace [p] with your prefix  
+> Replace %%%% with the name of the cog
 ```
 [p]repo add coffee-cogs https://github.com/coffeebank/coffee-cogs
 [p]cog install coffee-cogs %%%%%
 ```
-> Replace [p] with your prefix  
-> Replace %%%% with the name of the cog
 
 You're done!
