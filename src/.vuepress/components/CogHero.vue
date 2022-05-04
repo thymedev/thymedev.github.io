@@ -20,7 +20,7 @@
       </div>
       <div class="pt-2 text-sm">{{ this.cogdata.end_user_data_statement }}</div>
     </div>
-    <div class="pt-2 pb-10 text-sm"><a :href="'https://github.com/coffeebank/coffee-cogs/tree/master/'+this.$props.cog">Browse Source Code</a></div>
+    <div class="pt-2 pb-10 text-sm"><a :href="'https://github.com/coffeebank/coffee-cogs/tree/master/'+this.$props.cog" rel="noopener" target="_blank">Browse Source Code</a></div>
   </div>
 </template>
 
