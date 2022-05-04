@@ -11,7 +11,7 @@
     <div class="transition-opacity duration-150" v-else>
       <div class="text-xl whitespace-pre-line">{{ this.cogdata.description || this.$props.desc || "⏳" }}</div>
       <div class="pt-4 flex flex-wrap">
-        <div v-for="ct in this.cogdata.tags" :key="ct" class="mx-1 px-2 py-1 bg-gray-300 text-gray-800 rounded text-xs">{{ ct }}</div>
+        <div v-for="ct in this.cogdata.tags" :key="ct" class="mx-1 mt-1 px-2 py-1 bg-gray-300 text-gray-800 rounded text-xs">{{ ct }}</div>
       </div>
       <div class="pt-10 font-bold">Install</div>
       <div class="pt-2 pb-2">

@@ -9,7 +9,15 @@ description: "The Discord Bot for Moving Messages Between Channels and Servers. 
 
 <CogHero cog="msgmover" :desc="$frontmatter.description" />
 
-The Discord Bot for Moving Messages Between Channels and Servers
+<div class="text-center py-6">
+  <h3>The Discord Bot for Moving Messages Between Channels and Servers</h3>
+  <p>
+    <a href="/coffee/start">Add to your Discord ></a>
+  </p>
+  <p>
+    <a href="/discord">Join the Support Discord ></a>
+  </p>
+</div>
 
 
 ## What is msgmover?
@@ -46,14 +54,35 @@ The code was designed to be privacy-respecting from the ground up:
 - All messages are replicated with user profiles on for content credits, but can be masked under the webhook name for anonymity
 - Edited/deleted message support was built such that the bot does not need to log message/webhook IDs after a message is "done"
 
-This bot was partly inspired by an old 'Relays' cog. For some reason, despite Discord Webhooks growing in features, all relay-like bots seem to have disappeared into the void:
-- None seemed to attempt to replicate original messages as sent in chats
-- None were useful in migrating messages for merging dead channels
-- None allowed me to forward bot output messages to multiple channels, especially bot command embeds
+Despite Discord Webhooks growing in features, all relay-like bots seem to have disappeared into the void.
 
-I am not aware of a bot that can be configurable to this extent. I am certainly not aware of one that is open-source, simply because we are talking about private message data. So I decided to make one.
+My hope for Msgmover was to:
+- Migrate messages, for merging dead channels and moving conversations to other channels
+  - No more mods copy-pasting half the chat into another channel
+- Replicate all messages (including bot replies/embeds) as sent in chats
+  - Pretty-print all the messages, **including bot replies/embeds**, which may be taboo for some, but required as an essential part of this feature
+- Forward all messages (including bot replies/embeds) to multiple channels
+  - Discord has finally introduced announcement channels, but they still don't work for bot messages yet (ie. an RSS feed from a bot + a chat room shared between multiple servers)
 
-This code has no affiliation with, no codebase relations to, and integrates in a completely different way from, any previous relay code I know of.
+This bot was partly inspired by an old 'Relays' cog. However, this code has no affiliation with, no codebase relations to, and integrates in a completely different way from, any previous relay code I know of.
+
+
+### Privacy of moved messages
+
+Msgmover was initially created as a quick way to move messages, preserving all messages as they originally appeared in the chat.
+
+What Msgmover **can** guarantee is that messages are moved, and nothing else:
+- There is no database logging any user data, no message IDs
+- Messages use server nicknames by default (hiding real usernames)
+- Msgrelay checks back on messages after x seconds, syncing message edits/deletes, allowing for a quick "undo" feature
+- All code is open-source
+
+What Msgmover **cannot** guarantee is that server owners/admins use this bot responsibly:
+- If a server owner/admin wanted to move a conversation, the common solution is already to copy-paste half the chat and paste it elsewhere -- Msgmover only makes the chat look nicer.
+- The concept of asking for server owners/admins to optionally delete messages is also already standard (ie. when there is a server raid), and can be extended by asking them to delete moved messages.
+- Server owners/admins who do not respect user freedoms already use moderation bots that log edited/deleted messages, stored in Discord forever without your ability to know about it or delete it.
+
+Of course, the discussion on moved messages is irrelevant in the first place if you are using Msgmover in a small server where everyone has admin permissions (ie. with friends).
 
 
 ## Bot Commands
