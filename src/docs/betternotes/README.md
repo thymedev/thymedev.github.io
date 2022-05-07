@@ -1,4 +1,5 @@
 ---
+title: BetterNotes
 description: "The bot built for one job: to make note taking and sharing even more powerful"
 meta:
   - name: og:image
@@ -15,6 +16,12 @@ The bot built for one job: to make note taking and sharing even more powerful
 
 ## [Support server](https://thymedev.github.io/discord)
 ## [Invite me](https://thymedev.github.io/invite/betternotes)
+
+> ⚠ **Note**
+> 
+> BetterNotes may experience difficulties joining your Discord server. We are working on resolving this issue. Thank you for your patience.
+>
+> If you are interested, [Thyme's new Coffee Series bots](/coffee) are self-hosted and are unaffected by this issue.
 
 ## Commands
 prefix: **`n`**

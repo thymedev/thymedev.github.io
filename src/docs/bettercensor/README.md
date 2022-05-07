@@ -1,4 +1,5 @@
 ---
+title: BetterCensor
 description: "BetterCensor is the powerful Discord moderation bot that automatically keeps your servers clean, with Google Sheets Integration, for powerful editing, and sharing anywhere"
 ---
 
