@@ -3,7 +3,7 @@
     <div class="theme-default-content content__default">
       <router-link to="/legal">Terms of Use&ensp;&middot;&ensp;Privacy Policy</router-link>
       &ensp;&middot;&ensp;
-      Icons by <a href="https://icons8.com/" rel="noopener noreferrer">Icons8</a>
+      <span class="text-xs text-gray-400 inline-block">Icons from<a href="https://icons8.com/" class="text-gray-400 font-normal" rel="noopener noreferrer">Icons8</a></span>
     </div>
   </div>
 </template>
