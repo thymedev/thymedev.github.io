@@ -26,6 +26,10 @@ If you would like to submit a GDPR or CCPA request, please [contact us on Discor
 
 &copy; 2021–Present, Website by Thyme Dev. All rights reserved.
 
+Thyme: Coffee Series and all content under the `/coffee/` website path is licensed according to [the most recent `coffee-cogs` license](https://github.com/coffeebank/coffee-cogs/blob/master/LICENSE). As of 1 May 2022, this is the GPLv3 License.
+
+All other content on the site is copyrighted content created for Thyme Dev, and may not be duplicated outside of Thyme Dev without permission.
+
 - [Feather Icons](https://feathericons.com/) - [MIT License](https://github.com/feathericons/feather/blob/master/LICENSE)
 - Home - [Photo by Pawel Czerwinski on Unsplash](https://unsplash.com/photos/95QNbCkVERM)
 - Emotes - [Photo by micheile dot com on Unsplash](https://unsplash.com/photos/FxJE80hLLaI)
