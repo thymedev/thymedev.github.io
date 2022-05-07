@@ -20,11 +20,6 @@ All Thyme Coffee bots are free, open-source, and work as Red DiscordBot cogs!
         <div class="text-lg sm:text-xl">{{ i['title'] }}</div>
       </div>
     </router-link>
-    <!-- disabled button
-      <div class="rounded-sm bg-gray-100 cursor-default text-gray-300 text-center px-4 py-6 sm:py-8 overflow-x-auto">
-        <div class="text-lg sm:text-xl">{{ i['title'] }}</div>
-      </div>
-    -->
   </template>
 </div>
 
