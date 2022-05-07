@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b9d79900553e47829d02387bd10f7c08"
+    "revision": "32a325142607349c6e9cfc974c2f34b1"
   },
   {
     "url": "about.html",
-    "revision": "8a3ad86c9a2d9c40bcf088b36ba8bea0"
+    "revision": "c1875cc1cd25474acca3e911568705b2"
   },
   {
-    "url": "assets/css/0.styles.cedbddf6.css",
-    "revision": "82eec0a79973aa37627afd930f1600c8"
+    "url": "assets/css/0.styles.62dbaf65.css",
+    "revision": "aa77e655ccf177f8b1679e007aec10aa"
   },
   {
     "url": "assets/img/emotes.17e4d8c3.jpg",
@@ -190,8 +190,8 @@ self.__precacheManifest = [
     "revision": "cde7bddea28be169b93ec53be19efe0a"
   },
   {
-    "url": "assets/js/37.41200aee.js",
-    "revision": "4cbb1c413acbecbcf9f7249ae7320a60"
+    "url": "assets/js/37.0dd9ac82.js",
+    "revision": "cc8e8d986af34895bd1e3ccec5eb59c3"
   },
   {
     "url": "assets/js/38.99cff339.js",
@@ -214,8 +214,8 @@ self.__precacheManifest = [
     "revision": "fb26f321d8ae9e9bb0b5d5a7334a1d91"
   },
   {
-    "url": "assets/js/42.7be278be.js",
-    "revision": "c6c101607992768efa2e77e8c7213d87"
+    "url": "assets/js/42.222065c1.js",
+    "revision": "c9c730a90c38619c5e165ea01f8f8bad"
   },
   {
     "url": "assets/js/43.48bc35c1.js",
@@ -246,8 +246,8 @@ self.__precacheManifest = [
     "revision": "ea7622c531f1d9b615e94dd3dc789837"
   },
   {
-    "url": "assets/js/app.38cd1273.js",
-    "revision": "c04907002605240617a5a0236b03d1b4"
+    "url": "assets/js/app.4dbb8ad3.js",
+    "revision": "7b4e04bbc4ef0264e9ff453060134860"
   },
   {
     "url": "bettercensor/index.html",
@@ -271,87 +271,87 @@ self.__precacheManifest = [
   },
   {
     "url": "coffee/bartender/index.html",
-    "revision": "a1c1ea3ee32876a8ef654a66670d7416"
+    "revision": "80bd437e72c1052fd9bdbe259157d7fe"
   },
   {
     "url": "coffee/coffeetime/index.html",
-    "revision": "6ce8638b1cda509ba94327ad338685e8"
+    "revision": "ccfb779f10851c024513deb07643cb4a"
   },
   {
     "url": "coffee/coffeetools/index.html",
-    "revision": "bcaa70623273f5dc7ce0fd198f5def7d"
+    "revision": "515ad3daf71c00a7a1b80f1115e097d2"
   },
   {
     "url": "coffee/dmreply/index.html",
-    "revision": "341f9857713369f307d67f065b8401fc"
+    "revision": "7b26268f9996d26f9198c72974b4aded"
   },
   {
     "url": "coffee/emotes/index.html",
-    "revision": "6f0cc8420aae01a8bb4929538834daf9"
+    "revision": "9d97deff07d0d95f3ab813c9c129116f"
   },
   {
     "url": "coffee/hellohook/index.html",
-    "revision": "513665006216e5a083a2a79fa6a0cafd"
+    "revision": "090e1c822b545a13068c3940bedc2d19"
   },
   {
     "url": "coffee/index.html",
-    "revision": "b828bb40a3a8fd23b5c88c18b8b1986b"
+    "revision": "ee5f6bf362fa7494094e6932b3447fbd"
   },
   {
     "url": "coffee/jsonrequest/index.html",
-    "revision": "12eecaabbf58d837b4cc214322536286"
+    "revision": "6b057baee665aef2cd3e7d58a4db94e4"
   },
   {
     "url": "coffee/loveplay/index.html",
-    "revision": "b45f3ceffac01b41fbaf9c6e0abcc1a4"
+    "revision": "bd18a92a99b2f6ac79091729192856ac"
   },
   {
     "url": "coffee/msgmover/index.html",
-    "revision": "64c01a8717034440164b37ab66a1ae3c"
+    "revision": "8a83233355caf592b2116b7d2a43eba6"
   },
   {
     "url": "coffee/pinboard/index.html",
-    "revision": "af966330c20ad3a94e806750c699bb71"
+    "revision": "df4fe51dd4c755595e3f9b6053c09c7d"
   },
   {
     "url": "coffee/quarantine/index.html",
-    "revision": "f02ba60ce4357ba4aa9a83b9eb248b25"
+    "revision": "a853aa1d86d0e7e90697d5132665b567"
   },
   {
     "url": "coffee/sendhook/index.html",
-    "revision": "b5ec86ce06fabc9120260f400ba355c8"
+    "revision": "d0fc281ae0c1c130c88d8679d132c876"
   },
   {
     "url": "coffee/spotifyembed/index.html",
-    "revision": "5027670b1511465919cf103a124f051c"
+    "revision": "b2563726ecbc0fac3b9e43c0c3964228"
   },
   {
     "url": "coffee/start.html",
-    "revision": "00f62deb265ac79d93746e380844c39a"
+    "revision": "f257c2550ef4fe1668e32773ecb92edf"
   },
   {
     "url": "coffee/websearch/index.html",
-    "revision": "1987516e265e43efdafd3e65147a0b70"
+    "revision": "7b6eac9563e2867e3cd8b3c14b978b9f"
   },
   {
     "url": "discord.html",
-    "revision": "5e7376007ae42dc3764aabc693bac79f"
+    "revision": "498a68d0a1865f91af763514f5c013db"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "c4b3d83cf227efa6a8627ba0bc4f6314"
+    "revision": "7b4e8095127241f25226af45c696ccb7"
   },
   {
     "url": "docs/betterinvites/index.html",
-    "revision": "3fc2008fa932529650ce721373170abf"
+    "revision": "1372b418b716355f55c50e8cf918f442"
   },
   {
     "url": "docs/betternotes/index.html",
-    "revision": "3ea77cc753b2e99bcaf70b2a694464bd"
+    "revision": "594ec90bcd73472d05d246d048c73f47"
   },
   {
     "url": "docs/index.html",
-    "revision": "b2e7adc7aabad14184e5e88054f4b489"
+    "revision": "9403f932927178fb57bbb55b16fa442f"
   },
   {
     "url": "img/pawel-czerwinski-95QNbCkVERM-unsplash.jpg",
@@ -359,27 +359,27 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "8ef86a69fd048085b9e15043f7b54018"
+    "revision": "baec934c7ea7888ff1dad326067b577e"
   },
   {
     "url": "invite/bettercensor.html",
-    "revision": "e671ad14b06d402269dca6ae15967ce2"
+    "revision": "5478ccb536f7ca0f57210a1b3a94185e"
   },
   {
     "url": "invite/betterinvites.html",
-    "revision": "fbc5b001a70e134e92e25dcb791efea9"
+    "revision": "90bc521603f61ea8414a3ad286274f2d"
   },
   {
     "url": "invite/betternotes.html",
-    "revision": "3e4ff9dad0184c52761a481c97f8320a"
+    "revision": "a3717bc817dd49d56b0b28e687aab27c"
   },
   {
     "url": "invite/index.html",
-    "revision": "e1a653613fd621a4efb0982b6d8f8f2d"
+    "revision": "f312d5cd6a5e1f426f0bf981fa26a23e"
   },
   {
     "url": "legal.html",
-    "revision": "c2867b672d5ad0daf17596ac49a65f90"
+    "revision": "3a77422100dd2425f1a8ae184c1e8577"
   },
   {
     "url": "logos/full.png",
@@ -407,7 +407,7 @@ self.__precacheManifest = [
   },
   {
     "url": "status.html",
-    "revision": "df9abb0ce2ff60fbd555023e38de5285"
+    "revision": "a8b502effcb37cc0d7a4419a2d318280"
   },
   {
     "url": "terms-of-service/index.html",
