@@ -5,7 +5,7 @@
     <Content class="theme-default-content" />
 
     <PageNav v-bind="{ sidebarItems }" />
-    <FooterBar propAll=" " propBg="bg-gray-100" propText="text-gray-400" />
+    <FooterBar />
     <PageEdit />
 
     <slot name="bottom" />
