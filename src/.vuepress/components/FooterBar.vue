@@ -5,6 +5,8 @@
       <span class="inline-block">&ensp;&middot;&ensp;</span>
       <router-link to="/legal.html#privacy-policy">Privacy Policy</router-link>
       <span class="inline-block">&ensp;&middot;&ensp;</span>
+      <router-link to="/legal.html#licenses">Licenses</router-link>
+      <span class="inline-block">&ensp;&middot;&ensp;</span>
       <span :class="'text-xs inline-block ' + this.$props.propText">Icons from <a href="https://icons8.com/" :class="'font-normal ' + this.$props.propText" rel="noopener noreferrer" target="_blank">Icons8</a></span>
     </div>
   </div>

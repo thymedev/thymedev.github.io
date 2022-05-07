@@ -37,6 +37,6 @@ metaTitle: "Home | Thyme Dev"
 </div>
 
 <div class="px-4 py-12 md:py-8 bg-gray-800 text-gray-400 text-center">
-  <div class="py-2">&copy; 2021–Present, by Thyme Dev 💝</div>
+  <div class="py-2 -mb-2">&copy; 2021–Present, by Thyme Dev 💝</div>
   <FooterBar propAll="text-center" propBg="bg-gray-800" propText="text-gray-600" />
 </div>

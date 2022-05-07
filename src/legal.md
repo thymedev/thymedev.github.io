@@ -24,6 +24,8 @@ If you would like to submit a GDPR or CCPA request, please [contact us on Discor
 
 ## Licenses
 
+&copy; 2021–Present, Website by Thyme Dev. All rights reserved.
+
 - [Feather Icons](https://feathericons.com/) - [MIT License](https://github.com/feathericons/feather/blob/master/LICENSE)
 - Home - [Photo by Pawel Czerwinski on Unsplash](https://unsplash.com/photos/95QNbCkVERM)
 - Emotes - [Photo by micheile dot com on Unsplash](https://unsplash.com/photos/FxJE80hLLaI)
