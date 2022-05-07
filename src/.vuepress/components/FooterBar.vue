@@ -16,17 +16,14 @@ export default {
   props: {
     all: {
       type: String,
-      required: false,
-      default: ""
+      default: " "
     },
     bg: {
       type: String,
-      required: false,
       default: "bg-gray-100"
     },
     text: {
       type: String,
-      required: false,
       default: "text-gray-400"
     },
   },
