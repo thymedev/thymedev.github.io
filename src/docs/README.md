@@ -1,3 +1,7 @@
+---
+description: "See the latest Thyme Discord bot documentation, and discover/add new Thyme bots and services. Check Thyme bot status, uptime, and downtime notifications."
+---
+
 # Thyme Docs
 
 Get started by browsing Thyme's selection of Discord bots!

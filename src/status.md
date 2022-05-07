@@ -1,6 +1,6 @@
 ---
 title: Status
-description: See the current status of bots by Thyme Dev. - Practical, user-friendly Discord bots for getting things done.
+description: "See the latest Thyme Discord bot documentation, and discover/add new Thyme bots and services. Check Thyme bot status, uptime, and downtime notifications."
 ---
 
 > ⚠ **Note**
