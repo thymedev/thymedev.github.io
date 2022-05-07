@@ -38,5 +38,5 @@ metaTitle: "Home | Thyme Dev"
 
 <div class="px-4 py-12 md:py-8 bg-gray-800 text-gray-400 text-center">
   <div class="py-2">&copy; 2021–Present, by Thyme Dev 💝</div>
-  <router-link to="/legal">Terms/Privacy</router-link>
+  <FooterBar all="text-center" bg="bg-gray-800" text="text-gray-600" />
 </div>
