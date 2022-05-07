@@ -1,4 +1,5 @@
 ---
+title: "Thyme Docs"
 description: "See the latest Thyme Discord bot documentation, and discover/add new Thyme bots and services. Check Thyme bot status, uptime, and downtime notifications."
 ---
 

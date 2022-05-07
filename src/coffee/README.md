@@ -1,3 +1,8 @@
+---
+title: "Thyme: Coffee Series ☕"
+description: "A collection of self-hosted Discord bots ("cogs") that provide advanced features for your server. Emotes, message mover, custom welcome bots, and more."
+---
+
 # Thyme: Coffee Series ☕
 
 Thyme Coffee is a collection of self-hosted Discord bots ("cogs") that provide advanced features for your server.
