@@ -83,6 +83,7 @@ module.exports = {
             ['coffeetools/', 'coffeetools'],
             ['dmreply/', 'dmreply'],
             ['jsonrequest/', 'jsonrequest'],
+            ['kyarutail/', 'kyarutail'],
             ['loveplay/', 'loveplay'],
             ['pinboard/', 'pinboard'],
             ['quarantine/', 'quarantine'],
