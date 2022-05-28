@@ -5,7 +5,7 @@ description: "Convert your messages into a message written with emotes of Kyaru'
 
 # kyarutail
 
-<CogHero cog="kyarutail" />
+<CogHero cog="kyarutail" :desc="$frontmatter.description" />
 
 ![kyarutail.jpg](./kyarutail.jpg)
 
