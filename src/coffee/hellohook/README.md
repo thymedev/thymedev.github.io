@@ -55,5 +55,49 @@ After you save them into the bot, when a new user joins, the variables will be r
 
 ## FAQ
 
+- **Hellohook and the test command doesn't send anything!**
+First, check your Red Bot console.
+
+If it says `send() got an unexpected keyword argument '####'`, please let me know in the [Support Discord](/discord) or file a GitHub bug report.
+
+As of 10 June 2022, this has been patched, but may happen again in the future.
+
 - **Hellohook still works, but Greet Message is empty!**  
 Note for old users: Data has been upgraded to V2 system as of late 2021. Your data is saved. Greet Message will show as empty until a new user joins, which will activate the data migration process automatically. See **`[p]hellohook set`** for more info.
+
+- **How do I send a webhook styled as the person who joined?**
+This feature is not recommended. But, Hellohook is open-source, so I encourage you to customize the bot by [forking the code](#forking-hellohook).
+
+What you want to edit is:
+```
+return await webhook.send(**greetMessageJson)
+```
+
+Replace it with:
+```
+return await webhook.send(**greetMessageJson,
+    username=userObj.display_name,
+    avatar_url=userObj.avatar_url)
+```
+
+![Image: Replacing code under Utility Commands async def hellohookSender()](./carbon-user-avatar-as-webhook.png)
+
+
+## Forking Hellohook
+
+Hellohook is flexible, but may not be flexible enough for everyone's needs. Hellohook is open-source and encourages you to customize your own Hellohook by making tweaks.
+
+1. Go to [coffeebank/coffee-cogs](https://github.com/coffeebank/coffee-cogs) and click Fork at the top
+1. You should now be at USERNAME/coffee-cogs. Click into `hellohook` folder here
+1. Make the edits you would like, then click Save (join the [Support Discord](/discord) if you need help)
+1. Add the repo to your bot by typing in Discord (replacing with your GitHub username from above):
+```
+[p]cog uninstall hellohook
+[p]repo add coffee-cogs2 https://github.com/USERNAME/coffee-cogs
+[p]cog install coffee-cogs2 hellohook
+```
+
+Forks will still be able to get regular updates:
+1. Visit your copy of the GitHub repo at USERNAME/coffee-cogs
+1. Click "Fetch upstream" and merge updates
+1. On Discord, type `[p]cog update hellohook`
