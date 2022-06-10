@@ -26,9 +26,14 @@ When you are done on Discohook:
 
 ## Variables
 
+> **`https://&&SERVERCOUNT&&`** for server member count (268)
+
+> **`https://&&SERVERCOUNTORD&&`** for server member count with the th/st/nd ordinals (268th)
+
 > **`https://&&USERAVATAR&&`** for user profile picture url
 
 > **`https://&&USERMENTION&&`** for user mention (`<@1234567890123456>`)
+
 - User mentions can only be used in Content, or the Embed's Body Description, or they won't appear correctly.
 
 > **`https://&&USERNAME&&`** for username as text (`Clyde`)
@@ -55,17 +60,20 @@ After you save them into the bot, when a new user joins, the variables will be r
 
 ## FAQ
 
-- **Hellohook and the test command doesn't send anything!**
+### **Hellohook and the test command doesn't send anything!**
+
 First, check your Red Bot console.
 
 If it says `send() got an unexpected keyword argument '####'`, please let me know in the [Support Discord](/discord) or file a GitHub bug report.
 
 As of 10 June 2022, this has been patched, but may happen again in the future.
 
-- **Hellohook still works, but Greet Message is empty!**  
+### **Hellohook still works, but Greet Message is empty!**
+
 Note for old users: Data has been upgraded to V2 system as of late 2021. Your data is saved. Greet Message will show as empty until a new user joins, which will activate the data migration process automatically. See **`[p]hellohook set`** for more info.
 
-- **How do I send a webhook styled as the person who joined?**
+### **How do I send a webhook styled as the person who joined?**
+
 This feature is not recommended. But, Hellohook is open-source, so I encourage you to customize the bot by [forking the code](#forking-hellohook).
 
 What you want to edit is:
@@ -96,8 +104,10 @@ Hellohook is flexible, but may not be flexible enough for everyone's needs. Hell
 [p]repo add coffee-cogs2 https://github.com/USERNAME/coffee-cogs
 [p]cog install coffee-cogs2 hellohook
 ```
+<br>
 
 Forks will still be able to get regular updates:
+
 1. Visit your copy of the GitHub repo at USERNAME/coffee-cogs
 1. Click "Fetch upstream" and merge updates
 1. On Discord, type `[p]cog update hellohook`
