@@ -1,13 +1,14 @@
 ---
 title: "Hellohook | Coffee Series"
 description: "Create your own welcome bot with a custom profile picture! Choose between a regular message or an embed welcome, with a ping option."
+cogname: "hellohook"
 ---
 
 <img src="./hellohook.jpg" alt="logo" class="w-24 rounded">
 
 # Hellohook
 
-<CogHero cog="hellohook" :desc="$frontmatter.description" />
+<CogHero :cog="$frontmatter.cogname" :desc="$frontmatter.description" />
 
 
 ## Drafting your Webhook Message
@@ -93,21 +94,4 @@ return await webhook.send(**greetMessageJson,
 
 ## Forking Hellohook
 
-Hellohook is flexible, but may not be flexible enough for everyone's needs. Hellohook is open-source and encourages you to customize your own Hellohook by making tweaks.
-
-1. Go to [coffeebank/coffee-cogs](https://github.com/coffeebank/coffee-cogs) and click Fork at the top
-1. You should now be at USERNAME/coffee-cogs. Click into `hellohook` folder here
-1. Make the edits you would like, then click Save (join the [Support Discord](/discord) if you need help)
-1. Add the repo to your bot by typing in Discord (replacing with your GitHub username from above):
-```
-[p]cog uninstall hellohook
-[p]repo add coffee-cogs2 https://github.com/USERNAME/coffee-cogs
-[p]cog install coffee-cogs2 hellohook
-```
-<br>
-
-Forks will still be able to get regular updates:
-
-1. Visit your copy of the GitHub repo at USERNAME/coffee-cogs
-1. Click "Fetch upstream" and merge updates
-1. On Discord, type `[p]cog update hellohook`
+<CogFork :cog="$frontmatter.cogname" />

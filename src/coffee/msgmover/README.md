@@ -7,7 +7,7 @@ description: "The Discord Bot for Moving Messages Between Channels and Servers. 
 
 # Msgmover
 
-<CogHero cog="msgmover" :desc="$frontmatter.description" />
+<CogHero cog="msgmover" desc="Make moving messages between channels/servers easy and integrated, using webhooks.\n\nmsgcopy: Copy messages from one channel to another. Move whole conversations, or merge channels easily with re-uploaded attachments, bot messages, and usernames/profiles replicated in full. Includes timestamp spacers.\n\nmsgrelay: Relay messages from one channel to another channel/server. Supports usernames/profile pics, replies, attachments (files/images/video), and embeds (bot command replies). Supports edited/deleted messages. Supports forwarding to multiple webhooks/channels. Forward messages between different servers to bridge communities and share content." />
 
 <div class="text-center py-6">
   <h3>The Discord Bot for Moving Messages Between Channels and Servers</h3>
