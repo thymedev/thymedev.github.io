@@ -50,7 +50,7 @@ module.exports = {
           collapsable: false,
           children: [
             ['', 'Home'],
-            ['start', 'Getting Started'],
+            ['start/', 'Getting Started'],
           ]
         },
         {

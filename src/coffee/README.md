@@ -11,7 +11,7 @@ Thyme Coffee bots are flexible and you can easily run more than one at the same 
 
 All Thyme Coffee bots are free, open-source, and work as Red DiscordBot cogs!
 
-[See the Get Started guide to install Thyme Coffee >](./start.html)
+[See the Get Started guide to install Thyme Coffee >](./start/)
 
 <div class="docs-grid pt-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4">
   <template v-for="i in this.$site.themeConfig.sidebar['/coffee/']">
