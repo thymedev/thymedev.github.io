@@ -9,7 +9,7 @@ description: "Convert your messages into a message written with emotes of Kyaru'
 
 ![kyarutail.jpg](./kyarutail.jpg)
 
-This Kyarutail cog is a bot for converting text you type into emote letters from Kyaru's tail.
+This Kyarutail cog is a Discord bot for converting text you type into emote letters from Kyaru's tail.
 
 Kyaru, also known as Karyl in the English version, is a character from Priconne (Princess Connect! Re:Dive).
 
