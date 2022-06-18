@@ -10,7 +10,7 @@
 
 <script>
 export default {
-  name: 'VueFrame',
+  name: 'VueButton',
   props: {
     to: {
       type: String,
