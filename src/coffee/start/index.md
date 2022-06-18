@@ -66,8 +66,7 @@ These will stay within the Free tier limits
 </blockquote>
 </details>
 
-*This guide will not cover installation on MacOS.*
-
+<br>
 
 ### Step 2: Download Red DiscordBot
 
@@ -77,21 +76,23 @@ After the setup above, you should see a console with a similar screen above.
 
 Click this link to see setup instructions:
 
-<div>
-<a href="https://docs.discord.red/en/stable/install_guides/ubuntu-2204.html" target="_blank" rel="noopener" style="text-decoration:none;display:inline-block;">
-<div class="px-6 py-3 bg-green-600 hover:bg-green-700 text-white transition duration-300 rounded-md">
-Installing Red DiscordBot
-</div>
-</a>
-</div>
+<VueButton to="https://docs.discord.red/en/stable/install_guides/ubuntu-2204.html">
+  Installing Red DiscordBot
+</VueButton>
 
 For each line of code in the link above, copy-paste into your console and press enter.
 
 Wait for each line to finish running before continuing.
 
+<br>
+
 ### Step 3: Add your bot to your Discord server
 
-- [Getting Started](https://docs.discord.red/en/stable/getting_started.html)
+<VueButton to="https://docs.discord.red/en/stable/getting_started.html">
+  Getting Started
+</VueButton>
+
+<br>
 
 ### Step 4: Add coffee-cogs
 
