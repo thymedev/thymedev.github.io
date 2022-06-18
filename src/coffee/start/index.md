@@ -76,9 +76,7 @@ After the setup above, you should see a console with a similar screen above.
 
 Click this link to see setup instructions:
 
-<VueButton to="https://docs.discord.red/en/stable/install_guides/ubuntu-2204.html">
-  Installing Red DiscordBot
-</VueButton>
+<VueButton to="https://docs.discord.red/en/stable/install_guides/ubuntu-2204.html" body="Installing Red DiscordBot" />
 
 For each line of code in the link above, copy-paste into your console and press enter.
 
@@ -88,9 +86,7 @@ Wait for each line to finish running before continuing.
 
 ### Step 3: Add your bot to your Discord server
 
-<VueButton to="https://docs.discord.red/en/stable/getting_started.html">
-  Getting Started
-</VueButton>
+<VueButton to="https://docs.discord.red/en/stable/getting_started.html" body="Getting Started" class="mt-2" />
 
 <br>
 
