@@ -25,7 +25,10 @@ To get started, set up WSL2 with the walkthrough below:
 
 <br>
 
-When you are done, move to Step 2 below.
+```
+When the video ends, move to Step 2 below.
+The screens should look similar.
+```
 
 </blockquote>
 </details>
