@@ -14,6 +14,7 @@
         <div v-for="ct in this.cogdata.tags" :key="ct" class="mx-1 mt-1 px-2 py-1 bg-gray-300 text-gray-800 rounded text-xs">{{ ct }}</div>
       </div>
       <div class="pt-10 font-bold">Install</div>
+      <div class="py-2 text-sm">New here? <router-link to="/coffee/start/">See the Getting Started guide&ensp;▸</router-link></div>
       <div class="pt-2 pb-2" title="Replace [p] with your bot's prefix">
         <pre class="text-gray-600 text-sm">[p]repo add coffee-cogs https://github.com/coffeebank/coffee-cogs
   [p]cog install coffee-cogs {{ this.cogdata.name }}</pre>

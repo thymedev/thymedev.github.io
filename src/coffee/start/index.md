@@ -6,6 +6,13 @@ description: "Thyme Coffee Series is a powerful collection of self-hosted, open-
 
 Thyme Coffee bots are self-hosted Discord bots that can take your Discord server to the next level.
 
+To make installing multiple Thyme Coffee services easily, Thyme Coffee bots are built as plugins ("cogs") that can be installed in [Red DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot#readme).
+
+<div class="text-sm">Thyme Coffee is not affiliated with Red. Red is free and open source software.</div>
+
+![Red DiscordBot is a free, self-hosted Discord bot that is plugin-based ("cogs") and allows you to install/enable/disable "cogs" at any time. Thyme Coffee bots are a set of plugins ("repository/repo") designed to work with Red DiscordBot.](./what-is-thyme.png)
+
+
 ### Step 1: Install prerequisites
 
 Click one below to begin:
