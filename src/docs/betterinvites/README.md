@@ -12,6 +12,15 @@ BetterInvites makes Discord invites more powerful by giving members who join wit
 ## [Invite me](https://thymedev.github.io/invite/betterinvites)
 ## [Support server](https://thymedev.github.io/discord.html)
 
+<br />
+
+> ⚠ **Note**
+> 
+> BetterInvites may experience difficulties joining your Discord server. We are working on resolving this issue. Thank you for your patience.
+>
+> If you are interested, [Thyme's new Coffee Series bots](/coffee) are self-hosted and are unaffected by this issue.
+
+
 ## Commands
 prefix: **`b`**
 

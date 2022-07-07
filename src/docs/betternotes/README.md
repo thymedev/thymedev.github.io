@@ -17,6 +17,8 @@ The bot built for one job: to make note taking and sharing even more powerful
 ## [Support server](https://thymedev.github.io/discord)
 ## [Invite me](https://thymedev.github.io/invite/betternotes)
 
+<br />
+
 > ⚠ **Note**
 > 
 > BetterNotes may experience difficulties joining your Discord server. We are working on resolving this issue. Thank you for your patience.
