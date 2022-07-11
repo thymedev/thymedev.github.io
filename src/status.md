@@ -4,11 +4,11 @@ description: "See the latest Thyme Discord bot documentation, and discover/add n
 ---
 
 > ⚠ **Notes**
-> <br>
-> BetterInvites may experience difficulties joining your Discord server. We are working on resolving this issue. Thank you for your patience.
-> <br>
-> BetterNotes may experience difficulties joining your Discord server. We are working on resolving this issue. Thank you for your patience.
-> <br>
+> <br><br>
+> **BetterInvites** may experience difficulties joining your Discord server. We are working on resolving this issue. Thank you for your patience.
+> <br><br>
+> **BetterNotes** may experience difficulties joining your Discord server. We are working on resolving this issue. Thank you for your patience.
+> <br><br>
 > If you are interested, [Thyme's new Coffee Series bots](/coffee) are self-hosted and are unaffected by this issue.
 
 <br />
