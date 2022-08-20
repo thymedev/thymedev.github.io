@@ -5,9 +5,11 @@ description: "BetterInvites makes Discord invites more powerful by giving member
 
 > ⚠ **Notes**
 > <br>
-> BetterInvites has reached capacity at 100 Discord server limit, and may run into issues being added into your Discord server.
-> <br>
-> **Come [join the waitlist](/discord) and get notified when we officially release!**
+> All BetterBots are currently in Public Beta, and are limited to joining 100 Discord servers.
+> <br><br>
+> **BetterInvites** has reached capacity, and may run into issues being added into your Discord server.
+> <br><br>
+> **🌿 [Come join the waitlist and get notified when we officially release!](/discord) 🌿**
 
 
 # BetterInvites

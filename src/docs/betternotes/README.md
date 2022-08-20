@@ -10,9 +10,11 @@ meta:
 
 > ⚠ **Notes**
 > <br>
-> BetterNotes has reached capacity at our 100 Discord server limit, and may run into issues being added into your Discord server.
-> <br>
-> **Come [join the waitlist](/discord) and get notified when we officially release!**
+> All BetterBots are currently in Public Beta, and are limited to joining 100 Discord servers.
+> <br><br>
+> **BetterNotes** has reached capacity, and may run into issues being added into your Discord server.
+> <br><br>
+> **🌿 [Come join the waitlist and get notified when we officially release!](/discord) 🌿**
 
 
 <img src="./betternotes.png" alt="logo" class="w-24">
