@@ -9,6 +9,9 @@ description: "Custom emote solution for non-nitro users. Use animated emotes in 
 
 <CogHero cog="emotes" :desc="$frontmatter.description" />
 
+> ⚠ **Notes**
+> <br>
+> Due to a recent Discord update, please ensure you are only adding emotes you have permission to use, or are from servers your bot can access. Otherwise, emotes may not display properly.
 
 The emotes cog is powerful in its support to search through a public spreadsheet using the Google Sheets API.
 

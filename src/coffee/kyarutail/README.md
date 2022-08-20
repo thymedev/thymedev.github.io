@@ -7,6 +7,10 @@ description: "Convert your messages into a message written with emotes of Kyaru'
 
 <CogHero cog="kyarutail" :desc="$frontmatter.description" />
 
+> ⚠ **Notes**
+> <br>
+> Due to a recent Discord update, the emotes may not show. You may need to manually add Kyarutail emotes to your Discord server and invite your Discord bot into that server, before the bot can properly send the Kyarutail emotes.
+
 ![kyarutail.jpg](./kyarutail.jpg)
 
 This Kyarutail cog is a Discord bot for converting text you type into emote letters from Kyaru's tail.
