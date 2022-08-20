@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "18e47434bc0daae34cf516414470b752"
+    "revision": "f7e4053255e623f733de33ddb23f4d4e"
   },
   {
     "url": "about.html",
-    "revision": "a73e67cdd9cb44cb7e907fa826b08e82"
+    "revision": "efa22c25cb8be9738c1adbf90ec996c8"
   },
   {
     "url": "assets/css/0.styles.27d9ec46.css",
@@ -254,8 +254,8 @@ self.__precacheManifest = [
     "revision": "2490754310d092343e42ad481536e283"
   },
   {
-    "url": "assets/js/48.19561754.js",
-    "revision": "f3bfee7c861a7938e4cee583717f906a"
+    "url": "assets/js/48.a903b445.js",
+    "revision": "6da0ad0952145f9ae45a3516ac11bc1a"
   },
   {
     "url": "assets/js/49.0e6bbfb7.js",
@@ -282,8 +282,8 @@ self.__precacheManifest = [
     "revision": "b8c7cdfc9c2efc2a2eb590163d0af942"
   },
   {
-    "url": "assets/js/app.7e2edc9c.js",
-    "revision": "34bb1bc4cdb531f6b2606e5e2c9ba4d0"
+    "url": "assets/js/app.f34f376d.js",
+    "revision": "b6b5bfb76a2f4e22819c341b8cda07b4"
   },
   {
     "url": "bettercensor/index.html",
@@ -307,91 +307,91 @@ self.__precacheManifest = [
   },
   {
     "url": "coffee/bartender/index.html",
-    "revision": "a29eeaec16fbbf6ac9733bef18a9db9f"
+    "revision": "31ebbb56dc663ac200b409f97b198796"
   },
   {
     "url": "coffee/coffeetime/index.html",
-    "revision": "2dab788655550d39484741a3bf27cf43"
+    "revision": "d89d06be597b2f6c8b0db58db6ff2ba1"
   },
   {
     "url": "coffee/coffeetools/index.html",
-    "revision": "1b67b1cac00abdfe8cf20f63ad086ee8"
+    "revision": "317625233c1dd6f9bf784da07451f5bf"
   },
   {
     "url": "coffee/dmreply/index.html",
-    "revision": "cb03a152037fa538a560f5fc5bbc24b9"
+    "revision": "3c8587fe98a73da92548f1186ade0f1c"
   },
   {
     "url": "coffee/emotes/index.html",
-    "revision": "e6e7a3de84264914ba68e3a791c46075"
+    "revision": "fb0eca2e0e49d889a61d5f8c5ca8c921"
   },
   {
     "url": "coffee/hellohook/index.html",
-    "revision": "a694501ac869a41a8db8fd5c6b7d9c11"
+    "revision": "94f3e071d399465aec752a0548334cb6"
   },
   {
     "url": "coffee/index.html",
-    "revision": "5832d975f2a9e1b56c59edbba922f1c8"
+    "revision": "bc386cb437b49400f60f28b48f4c4b84"
   },
   {
     "url": "coffee/jsonrequest/index.html",
-    "revision": "a3e62c7b8bd8208180d1dd981fd8fdf0"
+    "revision": "ced5a8ef569378c8b17fbc81779981b9"
   },
   {
     "url": "coffee/kyarutail/index.html",
-    "revision": "2455f6eefd0a8c7be812b8b9a6ffbaba"
+    "revision": "28012c4416c5f3e4613ef0ae8fa7744a"
   },
   {
     "url": "coffee/loveplay/index.html",
-    "revision": "4f3c23db78c314d2205009b818471418"
+    "revision": "98e5910034110575d0813f67bf12c5cc"
   },
   {
     "url": "coffee/msgmover/index.html",
-    "revision": "432877a062bb5f0ba518fde3e1eec927"
+    "revision": "02fbe8d8e07ac912ed5d28b3bfb280a0"
   },
   {
     "url": "coffee/pinboard/index.html",
-    "revision": "7edee9874058dfe11d6b5f18c26c910e"
+    "revision": "0aa219583f84af5c197f9aba73f456a7"
   },
   {
     "url": "coffee/quarantine/index.html",
-    "revision": "6b1d10cf151c273551e3f6b21b5b2328"
+    "revision": "bb512dd77b4a3e2bd16009ef86f0352f"
   },
   {
     "url": "coffee/sendhook/index.html",
-    "revision": "554a1c9db880790c7dfcd5a4a877fcc0"
+    "revision": "4f51b56a315cfb2f0a8248a18913fc1f"
   },
   {
     "url": "coffee/spotifyembed/index.html",
-    "revision": "cc7e89678de1c49a1b7470a9ddfd5a38"
+    "revision": "b15cc89a9cbbed82e2fccd1d853db3b1"
   },
   {
     "url": "coffee/start/index.html",
-    "revision": "bf06fa379f482b3774d6ecc7f72472c6"
+    "revision": "4969d4f73a8f3b15a944f60c2b568d8c"
   },
   {
     "url": "coffee/websearch/index.html",
-    "revision": "6130f32fc309aa5e38ca19c1d4634e91"
+    "revision": "ac9610ba431422771f8d6654512c8eb1"
   },
   {
     "url": "discord.html",
-    "revision": "cd0b44844b35797674bbb6e67466805c"
+    "revision": "1d32cbd2dc5240bdc21db675313b4662"
   },
   {
     "url": "docs/bettercensor/index.html",
-    "revision": "0b094c86e9fa7e388176d25c914f4ab2"
+    "revision": "b836be0864d959c8df6333c34773b3a9"
   },
   {
     "url": "docs/betterinvites/index.html",
-    "revision": "de71387d36fe5b206f84f39a4a26ebf3"
+    "revision": "ca0a68c240bb780fe5bd5861cd508850"
   },
   {
     "url": "docs/betternotes/index.html",
-    "revision": "357c32dda65bbab8606f10e333512243"
+    "revision": "acb4bea57892d6c76842eb898f3c2d03"
   },
   {
     "url": "docs/index.html",
-    "revision": "2c632fde6a497882bdc201071ec1e350"
+    "revision": "a870c6d4baa1aed16a4126b1e78c8516"
   },
   {
     "url": "img/pawel-czerwinski-95QNbCkVERM-unsplash.jpg",
@@ -399,27 +399,27 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "1a0b21c4f13f86d3cc0746fd85cb8450"
+    "revision": "8d3778c1f10cdeb468fd0c6aa0898a9a"
   },
   {
     "url": "invite/bettercensor.html",
-    "revision": "c21e2a279dc0b234cfa373c17493b4ef"
+    "revision": "fc06ae7f595e20d1e6964c447602faa5"
   },
   {
     "url": "invite/betterinvites.html",
-    "revision": "e6bfc31ab4a83ac0dd56e15fd0ac1d8d"
+    "revision": "b08f0e96176be5b72597131547f6e5fc"
   },
   {
     "url": "invite/betternotes.html",
-    "revision": "08c694c1257c8f39ec6c300a42b434fe"
+    "revision": "b7afa53ebd91c9f07eaf56f3d811fa77"
   },
   {
     "url": "invite/index.html",
-    "revision": "282a17f99792fbce108962fb7d900038"
+    "revision": "831973329b9bc20a201f0707412451b4"
   },
   {
     "url": "legal.html",
-    "revision": "5fb4982287abce5c753b91016704b225"
+    "revision": "98c350f6f8bced6502b09329506b2a95"
   },
   {
     "url": "logos/full.png",
@@ -447,7 +447,7 @@ self.__precacheManifest = [
   },
   {
     "url": "status.html",
-    "revision": "51457431306cd3c75793d620c4a3ee5e"
+    "revision": "a227d156b9493218b7089c9689931782"
   },
   {
     "url": "terms-of-service/index.html",
@@ -467,7 +467,7 @@ self.__precacheManifest = [
   },
   {
     "url": "waitlist.html",
-    "revision": "da091bf4274a253e5e8de0946b1ae60c"
+    "revision": "0e40559874842b0093722874d7ff8ba8"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
