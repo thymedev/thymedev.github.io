@@ -9,7 +9,9 @@ description: "Convert your messages into a message written with emotes of Kyaru'
 
 > ⚠ **Notes**
 > <br>
-> Due to a recent Discord update, the emotes may not show. You may need to manually add Kyarutail emotes to your Discord server and invite your Discord bot into that server, before the bot can properly send the Kyarutail emotes.
+> Due to a recent Discord update, please ensure you are only adding Kyarutail emotes into a server your bot can access. Otherwise, emotes may not display properly.
+
+<br>
 
 ![kyarutail.jpg](./kyarutail.jpg)
 
