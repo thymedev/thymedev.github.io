@@ -8,6 +8,13 @@ meta:
     content: 72
 ---
 
+> ⚠ **Notes**
+> <br>
+> BetterNotes has reached capacity at our 100 Discord server limit, and may run into issues being added into your Discord server.
+> <br>
+> **Come [join the waitlist](/discord) and get notified when we officially release!**
+
+
 <img src="./betternotes.png" alt="logo" class="w-24">
 
 # BetterNotes
@@ -18,12 +25,6 @@ The bot built for one job: to make note taking and sharing even more powerful
 ## [Invite me](https://thymedev.github.io/invite/betternotes)
 
 <br />
-
-> ⚠ **Note**
-> 
-> BetterNotes may experience difficulties joining your Discord server. We are working on resolving this issue. Thank you for your patience.
->
-> If you are interested, [Thyme's new Coffee Series bots](/coffee) are self-hosted and are unaffected by this issue.
 
 ## Commands
 prefix: **`n`**

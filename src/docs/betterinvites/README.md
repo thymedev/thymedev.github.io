@@ -3,6 +3,13 @@ title: BetterInvites
 description: "BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles"
 ---
 
+> ⚠ **Notes**
+> <br>
+> BetterInvites has reached capacity at 100 Discord server limit, and may run into issues being added into your Discord server.
+> <br>
+> **Come [join the waitlist](/discord) and get notified when we officially release!**
+
+
 # BetterInvites
 
 <div class="text-xl">The best bot for all your invite roles. 100% free, forever.</div>
@@ -13,13 +20,6 @@ BetterInvites makes Discord invites more powerful by giving members who join wit
 ## [Support server](https://thymedev.github.io/discord.html)
 
 <br />
-
-> ⚠ **Note**
-> 
-> BetterInvites may experience difficulties joining your Discord server. We are working on resolving this issue. Thank you for your patience.
->
-> If you are interested, [Thyme's new Coffee Series bots](/coffee) are self-hosted and are unaffected by this issue.
-
 
 ## Commands
 prefix: **`b`**
