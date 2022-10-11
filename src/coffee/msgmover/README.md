@@ -90,3 +90,17 @@ Copy existing messages to a new server
 
 - `[p]msgrelay`  
 Forward new messages to a new channel/server
+
+<br>
+
+
+## FAQ
+
+### **The bot is returning an error in sending messages**
+
+#### 2022-10-10
+
+> Bad Request (error code: 50035): Invalid Form Body
+> In username: Username cannot be "឵                     ឵"
+
+- An error for an empty username for the timestamp has been fixed in two updates, released 10 October 2022. Please run `[p]cog update msgmover` to update.
