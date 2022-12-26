@@ -15,9 +15,7 @@ description: "See the latest Thyme Discord bot documentation, and discover/add n
 
 <br />
 
-<hr />
-
-## Downtime Alert
+## 🔴⚠️ Downtime Alert
 
 We are aware the Better Discord Bots are currently down.
 
@@ -30,7 +28,7 @@ If you are able to selfhost a Discord bot, please refer to [Thyme Coffee: Gettin
 [p]cog install laggrons-dumb-cogs roleinvite
 ```
 
-<hr />
+More details coming soon.
 
 <br />
 
