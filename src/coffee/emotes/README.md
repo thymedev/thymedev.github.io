@@ -27,7 +27,7 @@ Spreadsheet ID: `https://docs.google.com/spreadsheets/d/`**`1a2B3c4D5e6F7g8H9i10
 
 Share settings: Public, allow whoever has the link to view
 
-![Screenshot of Google Sheets template](google_sheets_template.png)
+![Screenshot of Google Sheets template](./google_sheets_template.png)
 
 - fav: TRUE or empty
 - name: string
