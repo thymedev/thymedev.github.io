@@ -27,13 +27,13 @@ Spreadsheet ID: `https://docs.google.com/spreadsheets/d/`**`1a2B3c4D5e6F7g8H9i10
 
 Share settings: Public, allow whoever has the link to view
 
-![Screenshot](https://cdn.discordapp.com/attachments/818822855349239809/844844497493426256/unknown.png)
+![Screenshot of Google Sheets template](google_sheets_template.png)
 
 - fav: TRUE or empty
 - name: string
 - url: string
 - tags: string
-- server: string
+- server: string (optional)
 
 Name and tags are searched when you run the search command.
 
