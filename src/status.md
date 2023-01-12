@@ -11,25 +11,26 @@ description: "See the latest Thyme Discord bot documentation, and discover/add n
 > <br><br>
 > **BetterNotes** has reached capacity, and may run into issues being added into your Discord server.
 > <br><br>
-> **🌿 [Come join the waitlist and get notified when we officially release!](/discord) 🌿**
 
 <br />
 
-## 🔴⚠️ Downtime Alert
+## 🟢 ✅ **Downtime Resolved**
 
-We are aware the Better Discord Bots are currently down.
+All bots are online again after extended recovery.
 
-The team is away for Christmas and New Years. We apologize for the inconvenience.
+> **Some data loss may have occurred.**  
+> **Please check your settings and re-setup as needed.**
 
-If you are able to selfhost a Discord bot, please refer to [Thyme Coffee: Getting Started](https://thymedev.github.io/coffee/start/), then install the `roleinvite` cog (not affiliated with Thyme Dev):
+The Thyme Dev team's bot and database hosting ran into a fatal error while we were away for the New Year and unable to access our systems.
 
-```
-[p]repo add laggrons-dumb-cogs https://github.com/retke/Laggrons-Dumb-Cogs
-[p]cog install laggrons-dumb-cogs roleinvite
-```
+Over the past few days, we have made significant changes in our backend to improve recoverability and prevent this type of catastrophic data loss in the future.
 
-More details coming soon.
+Thank you for your patience as we continue to improve.
 
 <br />
+
+## Status Not Working
+
+The status widget below is still being migrated to reflect backend updates. Please check back later!
 
 <Status-BotCount />
