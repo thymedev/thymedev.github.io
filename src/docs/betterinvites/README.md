@@ -3,15 +3,6 @@ title: BetterInvites
 description: "BetterInvites makes Discord invites more powerful by giving members who join with an invite certain roles"
 ---
 
-> ⚠ **Notes**
-> <br>
-> All BetterBots are currently in Public Beta, and are limited to joining 100 Discord servers.
-> <br><br>
-> **BetterInvites** has reached capacity, and may run into issues being added into your Discord server.
-> <br><br>
-> **🌿 [Come join the waitlist and get notified when we officially release!](/discord) 🌿**
-
-
 # BetterInvites
 
 <div class="text-xl">The best bot for all your invite roles. 100% free, forever.</div>
