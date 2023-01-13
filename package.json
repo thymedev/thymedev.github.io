@@ -1,0 +1,15 @@
+{
+  "name": "thymeapi",
+  "version": "0.1.0",
+  "description": "APIs for Thyme",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thyme Dev",
+  "license": "https://thymedev.github.io/legal",
+  "dependencies": {
+    "mongodb": "^3.6.10"
+  }
+}
