@@ -5,6 +5,16 @@ description: "See the latest Thyme Discord bot documentation, and discover/add n
 
 <Status-BotCount />
 
+## 🟡 ⏳ Feb 9, 2023: **Invite Issues**
+
+We are aware of issues with inviting certain Better Bots, despite a bug fix deployed last month.
+
+There is no ETA for resolving this issue.
+
+If you are able to selfhost, please consider [reading this blog post about selfhosting a BetterInvites alternative](https://coffeebank.github.io/blog/betterinvites).
+
+<br />
+
 ## 🟢 ✅ Jan 13, 2023: **Downtime Resolved**
 
 All bots are online again after extended recovery.
