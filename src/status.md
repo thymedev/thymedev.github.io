@@ -3,15 +3,23 @@ title: "Status"
 description: "See the latest Thyme Discord bot documentation, and discover/add new Thyme bots and services. Check Thyme bot status, uptime, and downtime notifications."
 ---
 
+<div style="min-height:31rem">
 <Status-BotCount />
+</div>
 
-## 🟡 ⏳ Feb 9, 2023: **Invite Issues**
+## 🟢 ✅ Feb 9, 2023 **Invite Issues Resolved**
 
-We are aware of issues with inviting certain Better Bots, despite a bug fix deployed last month.
+We have deployed a new hotfix that should resolve this issue.
+
+We will continue to monitor the situation.
+
+#### 🟡 ⏳ Feb 9, 2023: **Invite Issues**
+
+We are aware of issues with inviting certain Better Bots, despite a hotfix deployed last month.
 
 There is no ETA for resolving this issue.
 
-If you are able to selfhost, please consider [reading this blog post about selfhosting a BetterInvites alternative](https://coffeebank.github.io/blog/betterinvites).
+If you are able to selfhost, please consider [reading this blog post about selfhosting a BetterInvites alternative](https://coffeebank.github.io/blog/posts/betterinvites).
 
 <br />
 
