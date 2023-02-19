@@ -15,40 +15,36 @@ BetterInvites makes Discord invites more powerful by giving members who join wit
 <br />
 
 ## Commands
-prefix: **`b`**
-
-**`bstart`**: 
+**`/createinvite [invite]`**: 
 >Starts the process to create a new invite role.
->Choose to set up by choosing a invite link, or typing it
->Then select your role(s), after you see a **Done!**, everything is set up!
-![Image of /bstart command, with "Select" and "Link" buttons below](/media/BetterInvites_bstart.png){.bg-discord-bg-primary}
+>Use autocomplete to select an existing invite or type an invite code. discord.gg/abcdefg has code abcdefg
+>Then select your role(s), and click ✅, everything is set up!
 
-**`blist`**:
+![Image of /createinvite command, with an invite selected](https://i.gyazo.com/4191f8619c91a1a76d23623b4f5e709c.png){.bg-discord-bg-primary}
+
+**`/display`**:
 >Lists the set up invite roles.
 
-**`bhelp`**:
+**`/refresh`**:
+>Refreshes invite cache. Run this if you believe the bot missed a member joining.
+
+**`/help`**:
 >Displays helpful information (basically this page)
 
 ## Something is not working!
-### `bstart` buttons are doing nothing!
-Verify that the bot has view channel permissions. It needs view channel permission to edit messages.
+### It says "I can't interact with the following roles:..."
+Verify that role hierarchies allow BetterInvites to give those roles. It cannot give roles higher on the hierarchy than itself. [more info](https://support.discord.com/hc/en-us/articles/214836687-Role-Management-101).
 
 ### Roles are not being assigned!
-For the bot to give roles, it needs some permissions. Try kicking and reinviting the bot with [this](https://thymedev.github.io/invite/betterinvites).
-If the issue still persists, verify that role hierarchies allow BetterInvites to give those roles. It cannot give roles higher on the hierarchy than itself. [more info](https://support.discord.com/hc/en-us/articles/214836687-Role-Management-101).
-
-It will send a message in the server's default channel if someone joins and it cannot give a role.
-This will also happen if a role is deleted.
+It's possible permissions may not be set up correctly. Try kicking and reinviting the bot with [this](https://thymedev.github.io/invite/betterinvites).
 
 ## More Info
-### Suggestions and bug reports
-Please direct all suggestions and bug reports to [our support server](https://thymedev.github.io/discord.html)
-
 ### Remove a role invite
-Simply go through the process again and when it asks for roles to assign, just send:
->none
-
-or send a message which mentions no roles.
+Use the `/createinvite [invite]` command again and don't select any roles. The bot will not assign any roles to people who use that invite.
+Confirm it has been removed with `/display`.
 
 ### Assign multiple roles for each invite
-If you would like an invite to give multiple roles when someone joins, just mention more roles when prompted.
+If you would like an invite to give multiple roles when someone joins, select multiple roles when prompted.
+
+### Suggestions and bug reports
+Please direct all suggestions and bug reports to [our support server](https://thymedev.github.io/discord.html)
