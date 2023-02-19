@@ -20,7 +20,7 @@ BetterInvites makes Discord invites more powerful by giving members who join wit
 >Use autocomplete to select an existing invite or type an invite code. discord.gg/abcdefg has code abcdefg
 >Then select your role(s), and click ✅, everything is set up!
 
-[//]: # (![Image of /bstart command, with "Select" and "Link" buttons below]&#40;/media/BetterInvites_bstart.png&#41;{.bg-discord-bg-primary})
+![Image of /createinvite command, with an invite selected](https://i.gyazo.com/4191f8619c91a1a76d23623b4f5e709c.png){.bg-discord-bg-primary}
 
 **`/display`**:
 >Lists the set up invite roles.
