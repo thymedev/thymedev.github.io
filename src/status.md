@@ -7,7 +7,7 @@ description: "See the latest Thyme Discord bot documentation, and discover/add n
 <Status-BotCount />
 </div>
 
-## 🟢 ✅ Feb 9, 2023 **Invite Issues Resolved**
+## 🟢 ✅ Feb 9, 2023: **Invite Issues Resolved**
 
 We have deployed a new hotfix that should resolve this issue.
 
