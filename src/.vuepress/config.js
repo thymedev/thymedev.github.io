@@ -51,46 +51,46 @@ module.exports = {
           collapsable: false,
           children: [
             ['', 'Home'],
-            ['start/', 'Getting Started'],
+            ['https://coffeebank.github.io/coffee-cogs/start/', 'Getting Started'],
           ]
         },
         {
           title: 'Cherry Emotes',
           collapsable: false,
           children: [
-            ['emotes/', 'Home'],
+            ['https://coffeebank.github.io/coffee-cogs/emotes/', 'Home'],
           ]
         },
         {
           title: 'Hellohook',
           collapsable: false,
           children: [
-            ['hellohook/', 'Home'],
+            ['https://coffeebank.github.io/coffee-cogs/hellohook/', 'Home'],
           ]
         },
         {
           title: 'Msgmover',
           collapsable: false,
           children: [
-            ['msgmover/', 'Home'],
+            ['https://coffeebank.github.io/coffee-cogs/msgmover/', 'Home'],
           ]
         },
         {
           title: 'More cogs',
           collapsable: false,
           children: [
-            ['bartender/', 'bartender'],
-            ['coffeetime/', 'coffeetime'],
-            ['coffeetools/', 'coffeetools'],
-            ['dmreply/', 'dmreply'],
-            ['jsonrequest/', 'jsonrequest'],
-            ['kyarutail/', 'kyarutail'],
-            ['loveplay/', 'loveplay'],
-            ['pinboard/', 'pinboard'],
-            ['quarantine/', 'quarantine'],
-            ['sendhook/', 'sendhook'],
-            ['spotifyembed/', 'spotifyembed'],
-            ['websearch/', 'websearch'],
+            ['https://coffeebank.github.io/coffee-cogs/bartender/', 'bartender'],
+            ['https://coffeebank.github.io/coffee-cogs/coffeetime/', 'coffeetime'],
+            ['https://coffeebank.github.io/coffee-cogs/coffeetools/', 'coffeetools'],
+            ['https://coffeebank.github.io/coffee-cogs/dmreply/', 'dmreply'],
+            ['https://coffeebank.github.io/coffee-cogs/jsonrequest/', 'jsonrequest'],
+            ['https://coffeebank.github.io/coffee-cogs/kyarutail/', 'kyarutail'],
+            ['https://coffeebank.github.io/coffee-cogs/loveplay/', 'loveplay'],
+            ['https://coffeebank.github.io/coffee-cogs/pinboard/', 'pinboard'],
+            ['https://coffeebank.github.io/coffee-cogs/quarantine/', 'quarantine'],
+            ['https://coffeebank.github.io/coffee-cogs/sendhook/', 'sendhook'],
+            ['https://coffeebank.github.io/coffee-cogs/spotifyembed/', 'spotifyembed'],
+            ['https://coffeebank.github.io/coffee-cogs/websearch/', 'websearch'],
           ]
         },
       ],
