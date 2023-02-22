@@ -7,6 +7,18 @@ description: "See the latest Thyme Discord bot documentation, and discover/add n
 <Status-BotCount />
 </div>
 
+## 📣 Feb 22, 2023: **New: BetterInvites v2**
+
+We are releasing a new version of BetterInvites bot, fully rewritten to support slash commands!
+
+This bot is currently open in public beta with no waitlists.
+
+Feel free to try it out and let us know your thoughts!
+
+> **Invite: https://thymedev.github.io/docs/betterinvites/**
+
+<br />
+
 ## 🟢 ✅ Feb 9, 2023: **Invite Issues Resolved**
 
 We have deployed a new hotfix that should resolve this issue.
