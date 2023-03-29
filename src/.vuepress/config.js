@@ -34,7 +34,7 @@ module.exports = {
           collapsable: false,
           children: [
             ['betterinvites/', 'Home'],
-            ['betterinvites/v1', '🗑 v1'],
+            ['betterinvites/v1', 'BetterInvites v1'],
           ]
         },
         {
