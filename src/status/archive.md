@@ -1,21 +1,13 @@
 ---
-title: "Status"
+title: "Status Archive"
 description: "See the latest Thyme Discord bot documentation, and discover/add new Thyme bots and services. Check Thyme bot status, uptime, and downtime notifications."
 ---
 
-<div style="min-height:31rem">
-<Status-BotCount />
-</div>
+# Status Archive
 
-## 📣 Feb 22, 2023: **New: BetterInvites v2**
+[Return to Current Status >](/status/)
 
-We are releasing a new version of BetterInvites bot, fully rewritten to support slash commands!
-
-This bot is currently open in public beta with no waitlists.
-
-Feel free to try it out and let us know your thoughts!
-
-> **Invite: https://thymedev.github.io/docs/betterinvites/**
+<br />
 
 <br />
 
