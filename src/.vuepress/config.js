@@ -9,7 +9,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Docs', link: '/docs/' },
       { text: 'Coffee', link: '/coffee/' },
-      { text: 'Status', link: '/status' },
+      { text: 'Status', link: '/status/' },
       // { text: 'Discord', link: '/discord', target:'_blank' },
     ],
     sidebar: {
