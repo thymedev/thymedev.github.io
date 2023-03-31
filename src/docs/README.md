@@ -9,7 +9,7 @@ Get started by browsing Thyme's selection of Discord bots!
 
 Thyme Standard bots are ready to add into your Discord server and use with one click.
 
-Experiencing issues? [Check our Status page >](/status.html)
+Experiencing issues? [Check our Status page >](/status/)
 
 <div class="docs-grid pt-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4">
   <template v-for="i in this.$site.themeConfig.sidebar['/docs/']">
