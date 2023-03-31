@@ -13,7 +13,7 @@ We are aware of issues with inviting BetterInvites v2. We've reached capacity ag
 
 There is no ETA for resolving this issue.
 
-While we work on expanding BetterInvites v2 to more users, we [recommend using BetterInvites v1 for now instead](/invite/betterinvites/v1).
+While we work on expanding BetterInvites v2 to more users, we [recommend using BetterInvites v1 for now instead](https://thymedev.github.io/invite/betterinvites/v1).
 
 If you are able to selfhost, please consider [reading this blog post about selfhosting a BetterInvites alternative](https://coffeebank.github.io/blog/posts/betterinvites).
 
