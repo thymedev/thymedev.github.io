@@ -27,7 +27,7 @@ Choose the bots you'd like to invite below:
 
 ## Legacy Bots
 
-<div class="grid grid-cols-1 sm:grid-cols-2">
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
 <Invite
   title="BetterInvites v1"
   docs="/docs/betterinvites/v1"
