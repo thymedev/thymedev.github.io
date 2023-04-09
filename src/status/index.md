@@ -3,7 +3,7 @@ title: "Status"
 description: "See the latest Thyme Discord bot documentation, and discover/add new Thyme bots and services. Check Thyme bot status, uptime, and downtime notifications."
 ---
 
-<div style="min-height:21rem">
+<div style="min-height:22rem">
 <Status-BotCount />
 </div>
 

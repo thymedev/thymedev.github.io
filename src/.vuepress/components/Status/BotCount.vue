@@ -9,7 +9,7 @@
         Refresh
       </button>
     </div>
-    <div class="grid grid-cols-2 gap-2 py-8">
+    <div class="grid grid-cols-1 xs:grid-cols-2 gap-2 py-8">
       <div class="bg-gray-200 px-6 py-4 rounded-sm transition-opacity duration-300" v-for="bot in botCount" :key="bot._id" :class="{'animate-pulse': fetchLoading}">
         <div v-if="bot._id">
           <div class="text-xl font-bold py-2 text-gray-600">{{ bot.name }}</div>
