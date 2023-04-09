@@ -6,7 +6,7 @@ description: "BetterInvites makes Discord invites more powerful by giving member
 <span class="px-3 py-1 rounded-full bg-green-600 text-white text-xs select-none">📣 New v2</span> 
 <span class="px-3 py-1 rounded-full bg-green-600 text-white text-xs select-none">Supports Slash Commands</span> 
 
-<a href="/status/"><span class="px-3 py-1 rounded bg-yellow-400 text-black text-xs select-none">⚠️ Active Issues - Read More</span></a> 
+<!-- <a href="/status/"><span class="px-3 py-1 rounded bg-yellow-400 text-black text-xs select-none">⚠️ Active Issues - Read More</span></a>  -->
 
 
 # BetterInvites
