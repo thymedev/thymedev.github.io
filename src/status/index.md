@@ -7,21 +7,11 @@ description: "See the latest Thyme Discord bot documentation, and discover/add n
 <Status-BotCount />
 </div>
 
-## 🟢 ✅ Apr 9, 2023: **Invite Issues Resolved**
-
-We have deployed a new hotfix that should resolve this issue.
-
-We will continue to monitor the situation.
-
-#### 🟡 ⏳ Mar 31, 2023: **Invite Issues**
+## 🟡 ⏳ May 15, 2023: **Invite Issues**
 
 We are aware of issues with inviting BetterInvites v2. We've reached capacity again.
 
-There is no ETA for resolving this issue.
-
-While we work on expanding BetterInvites v2 to more users, we [recommend using BetterInvites v1 for now instead](https://thymedev.github.io/invite/betterinvites/v1).
-
-If you are able to selfhost, please consider [reading this blog post about selfhosting a BetterInvites alternative](https://coffeebank.github.io/blog/posts/betterinvites).
+We expect to be approved by Discord soon, and officially launch Better Bots. Thank you for your patience!
 
 <br />
 
