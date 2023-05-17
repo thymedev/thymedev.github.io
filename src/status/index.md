@@ -13,6 +13,8 @@ We are aware of issues with inviting BetterInvites v2. We've reached capacity ag
 
 We expect to be approved by Discord soon, and officially launch Better Bots. Thank you for your patience!
 
+Please [join our Discord](/discord) to stay tuned for updates.
+
 <br />
 
 ## 📣 Feb 22, 2023: **New: BetterInvites v2**
