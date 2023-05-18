@@ -7,11 +7,13 @@ description: "See the latest Thyme Discord bot documentation, and discover/add n
 <Status-BotCount />
 </div>
 
-## 🟢 ✅ Apr 9, 2023: **Invite Issues Resolved**
+## 🟢 ✅ May 18, 2023: **Invite Issues Resolved**
 
-BetterInvites v2 is verified!
+🎉 BetterInvites v2 is verified! 🎉
 
 Thank you for your patience, and we hope you enjoy using BetterInvites v2!
+
+Invite issues should be resolved now. [Invite BetterInvites v2 here](/docs/betterinvites).
 
 
 #### 🟡 ⏳ May 15, 2023: **Invite Issues**
