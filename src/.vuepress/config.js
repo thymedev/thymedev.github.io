@@ -44,6 +44,14 @@ module.exports = {
             ['betternotes/', 'Home'],
           ]
         },
+        {
+          title: 'Cha Series',
+          collapsable: false,
+          children: [
+            ['cha/ja', '茶 Japanese'],
+            ['cha/ko', '차 Korean'],
+          ]
+        },
       ],
       '/coffee/': [
         {
