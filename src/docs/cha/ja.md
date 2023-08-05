@@ -1,4 +1,9 @@
-<img src="./cha-sq.jpg" alt="Cha Series by Coffeebank: A delightfully refreshing Discord bot" class="mb-2 h-24 rounded aspect-square" />
+---
+title: "🍵 茶 Cha for Japanese"
+description: "A delightfully refreshing Discord bot for searching and translating Japanese."
+---
+
+<img src="./cha-sq.jpg" alt="Cha Series: A delightfully refreshing Discord bot" class="mb-2 h-24 rounded aspect-square" />
 
 # 🍵 茶 Cha for Japanese
 
@@ -9,7 +14,7 @@
 
 <br />
 
-![Jadict: A Japanese dictionary entry for 茶 (ちゃ, cha, tea)](./jadict-example.png)
+![A Japanese dictionary entry for 茶 (ちゃ, cha, tea)](./jadict-example.png)
 
 Japanese dictionary bot. Searches Jisho using Jisho API. Includes alternate links to Wiktionary, DeepL, and Google Translate.
 

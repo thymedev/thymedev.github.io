@@ -1,4 +1,9 @@
-<img src="./cha-sq.jpg" alt="Cha Series by Coffeebank: A delightfully refreshing Discord bot" class="mb-2 h-24 rounded aspect-square" />
+---
+title: "🍵 차 Cha for Korean"
+description: "A delightfully refreshing Discord bot for searching and translating Korean."
+---
+
+<img src="./cha-sq.jpg" alt="Cha Series: A delightfully refreshing Discord bot" class="mb-2 h-24 rounded aspect-square" />
 
 # 🍵 차 Cha for Korean
 
@@ -9,7 +14,7 @@
 
 <br />
 
-![Kodict: A Korean dictionary entry for 신문 (sinmun, newspaper)](./kodict-example.png)
+![A Korean dictionary entry for 신문 (sinmun, newspaper)](./kodict-example.png)
 
 Korean dictionary bot. Searches National Institute of Korean Language's Korean-English Learners' Dictionary (한국어기초사전), translates Korean using DeepL, and resources including Wiktionary, Google Translate, and romanization.
 
