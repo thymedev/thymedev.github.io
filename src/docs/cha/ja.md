@@ -16,8 +16,6 @@ description: "A delightfully refreshing Discord bot for searching and translatin
 
 ![A Japanese dictionary entry for 茶 (ちゃ, cha, tea)](./jadict-example.png)
 
-Japanese dictionary bot. Searches Jisho using Jisho API. Includes alternate links to Wiktionary, DeepL, and Google Translate.
-
 
 ## About
 
@@ -28,13 +26,6 @@ The Japanese language is one of the most intricate and beautiful languages in th
 **CHA-JA** is a unified turnkey solution for searching dictionary sources, displaying Romaji pronunciations, word definitions/origins, and links to relevant external sources.
 
 **CHA-JA** uses data from public sources including [Jisho](https://jisho.org/about).
-
-
-## Getting Started
-
-The public bot invite link is still in development. Please [self-host this bot](/start) or [join the Discord](https://coffeebank.github.io/discord) to stay tuned!
-
-This bot does not require any APIs.
 
 
 ## Features
