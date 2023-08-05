@@ -23,11 +23,25 @@ Choose the bots you'd like to invite below:
   invite="/invite/betternotes"
 />
 
+<Invite
+  title="🍵 茶 Cha for Japanese"
+  description="A delightfully refreshing Discord bot for searching and translating Japanese."
+  docs="/docs/cha/ja"
+  invite="/invite/chaja"
+/>
+
+<Invite
+  title="🍵 차 Cha for Korean"
+  description="A delightfully refreshing Discord bot for searching and translating Korean."
+  docs="/docs/cha/ko"
+  invite="/invite/chako"
+/>
+
 <div style="padding-bottom:50px"></div>
 
 ## Legacy Bots
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+<div class="grid grid-cols-1 gap-2 sm:grid-cols-2">
 <Invite
   title="BetterInvites v1"
   docs="/docs/betterinvites/v1"
