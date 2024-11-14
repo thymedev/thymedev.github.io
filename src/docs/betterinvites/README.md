@@ -49,6 +49,25 @@ If you would like an invite to give multiple roles when someone joins, select mu
 <br />
 
 ## Something is not working!
+
+### My invite isn't showing up
+
+Try one of these:
+
+- Start typing your invite URL, and it should appear
+  - Example: for invite `abCDeF`, start typing `ab`
+- Wait 15 minutes. Newly created invites may take a while to appear.
+
+**Note: [Server vanity invite URLs](https://support.discord.com/hc/hi-in/articles/115001542132-Server-Vanity-URLs) are not supported because they are generic and public.** To add a role for all new joiners, we recommend using regular auto-role bots.
+
+### Current members can't get the new invite role
+
+Invite roles are only for new users.
+
+This is a Discord limitation, since we only use Discord invite URLs.
+
+For existing users, we recommend using reaction-role bots in a private channel.
+
 ### It says "I can't interact with the following roles:..."
 Verify that role hierarchies allow BetterInvites to give those roles. It cannot give roles higher on the hierarchy than itself. [more info](https://support.discord.com/hc/en-us/articles/214836687-Role-Management-101).
 
