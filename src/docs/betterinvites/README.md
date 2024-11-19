@@ -52,13 +52,12 @@ If you would like an invite to give multiple roles when someone joins, select mu
 
 ### My invite isn't showing up
 
-Try one of these:
+Start typing your invite URL, and it should appear.
 
-- Start typing your invite URL, and it should appear
-  - Example: for invite `abCDeF`, start typing `ab`
-- Wait 15 minutes. Newly created invites may take a while to appear.
+*Example: for invite `abCDeF`, start typing `ab`*
 
 **Note: [Server vanity invite URLs](https://support.discord.com/hc/hi-in/articles/115001542132-Server-Vanity-URLs) are not supported because they are generic and public.** To add a role for all new joiners, we recommend using regular auto-role bots.
+
 
 ### Current members can't get the new invite role
 
@@ -71,8 +70,28 @@ For existing users, we recommend using reaction-role bots in a private channel.
 ### It says "I can't interact with the following roles:..."
 Verify that role hierarchies allow BetterInvites to give those roles. It cannot give roles higher on the hierarchy than itself. [more info](https://support.discord.com/hc/en-us/articles/214836687-Role-Management-101).
 
+
+### How do I make my invite last forever?
+
+When creating your Discord invite link, please [check your invite settings popup](https://support.discord.com/hc/en-us/articles/208866998-Invites-101):
+
+- Change "Expire after" to **Never**
+- Change "Max number of uses" to **No limit**
+
+<div style="display:grid;grid-template-columns: repeat(3, minmax(0, 1fr));">
+
+![Discord invite, popup, "Your invite link expires in 7 days. Edit invite link"](https://support.discord.com/hc/article_attachments/15156541577367)
+
+![Step 2](https://support.discord.com/hc/article_attachments/15156564355863)
+
+![Step 3](https://support.discord.com/hc/article_attachments/15156535233175)
+
+</div>
+
+
 ### Roles are not being assigned!
 It's possible permissions may not be set up correctly. Try kicking and reinviting the bot with [this](https://thymedev.github.io/invite/betterinvites).
+
 
 ## More Info
 
