@@ -20,11 +20,18 @@ BetterInvites makes Discord invites more powerful by giving members who join wit
 
 <br />
 
+**BetterInvites only uses invites you create through Discord.**
+
+This lets you control the expiration, # of uses, and default channel for each invite. [See Discord: Invites 101 for more info >](https://support.discord.com/hc/en-us/articles/208866998-Invites-101)
+
+![Discord: Create a new invite](https://support.discord.com/hc/article_attachments/15156535238807)
+
 ## Commands
+
 **`/createinvite [invite]`**: 
->Starts the process to create a new invite role.  
->Use autocomplete to select an existing invite or type an invite code. discord.gg/abcdefg has code abcdefg  
->Then select your role(s), and click ✅, everything is set up!
+> ・Starts the process to create a new role invite.  
+> ・Use autocomplete to select an existing invite, or start typing an invite code (if it doesn't auto-appear). discord.gg/abcdefg has code abcdefg  
+> ・Then select your role(s), and click ✅, everything is set up!
 
 ![Image of /createinvite command, with an invite selected](./Betterinvites-gif.gif){.bg-discord-bg-primary}
 

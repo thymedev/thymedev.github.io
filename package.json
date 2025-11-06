@@ -2,6 +2,9 @@
   "name": "thymedev",
   "version": "0.3.0",
   "main": "index.js",
+  "engines" : { 
+    "node" : "16"
+  },
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src",
