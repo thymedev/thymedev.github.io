@@ -9,9 +9,7 @@ description: "A delightfully refreshing Discord bot for searching and translatin
 
 <p class="pt-0 mt-0 text-3xl">A delightfully refreshing Discord bot for searching and translating Korean.</p>
 
-<h2><a href="https://thymedev.github.io/invite/chako" style="text-decoration-line: line-through;color:#cccccc;">Invite me</a></h2>
-
-<div class="rounded p-4 mb-4 text-2xl italic">Note: This bot has currently reached the maximum cap of 100 servers. We are working to approve this bot for Discord Verification. Thank you for your patience and support!<br /><br />To self-host this bot: <a href="https://github.com/coffeebank/kodict-dpy" target="_blank">kodict-dpy ▸</a></div>
+<h2><a href="https://thymedev.github.io/invite/chako">Invite me</a></h2>
 
 ## [Support server](https://thymedev.github.io/discord.html)
 
