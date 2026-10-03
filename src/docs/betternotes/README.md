@@ -20,75 +20,65 @@ The bot built for one job: to make note taking and sharing even more powerful
 <br />
 
 ## Commands
-prefix: **`n`**
-To create multiple work note titles, use `""`
 
-**`nnew [title] [content]`**: 
-> Creates a new note with [title] and [content]
-> ex: `nnew "my note" This note title has 2 words!`
-> ex: `nnew note1 This is note title has only 1`
+BetterNotes uses **slash commands and forms**. The old `n...` commands have been replaced. Your existing notes and sharing permissions are preserved.
 
-**`nread [title]`**
-> Opens the note with [title]
+| Command | What it does |
+| --- | --- |
+| `/note new` | Opens a form for the title and note content |
+| `/note read title` | Displays an owned or shared note; use `page` for long notes |
+| `/note edit title` | Opens the editor; click **Open editor** to fill in the form |
+| `/note list` | Lists notes you own or can access; use `page` for more results |
+| `/note share title user` | Shares your note; optional `user2`–`user5` add more people |
+| `/note remove title user` | Removes users' access to your note |
+| `/note info title` | Shows your note's owner, sharing details, and edit time |
+| `/note delete title` | Asks you to confirm before deleting your note |
+| `/note help` | Shows command help |
+| `/note invite` | Gets the bot invite link |
 
-**`ndelete [title]`**
-> Deletes the note with [title]
-> Only the note owner can do this
+Choose a note from autocomplete, especially when multiple notes have the same title. Titles with spaces work without quotation marks.
 
-**`nedit [title]`**
-> Provides the edit menu to edit a note
-> 3 options:
-> - editing: Add new content
-> - replacing: Replace lines or words
-> - removing: Remove lines or words 
+Shared users can read and edit notes. Only the owner can delete, share, remove access, or view sharing details. Share/remove commands support up to five users at a time; repeat the command to manage more users.
 
-**`nlist`**
-> List all the notes you have access to
+### Editing
 
-**`nshare [title] [@user1 @user2 ...]`**
-> Shares the note with [title] to all users mentioned
-> Notes which are shared can be edited by all
-> Only the note owner can do this
+`/note edit` defaults to **replace all content**, with your current content filled into the form. Use the optional `mode` to:
 
-**`nremove [title] [@user1 @user2 ...]`**
-> Removes access of note with [title] to all users mentioned
-> Only the note owner can do this
+- Append text or append a new line.
+- Replace a line, using the `line` option (line numbers start at 1).
+- Remove the first occurrence of some text.
+- Remove a line, using the `line` option and typing `REMOVE` to confirm.
 
-**`ninfo [title]`**
-> Displays information about a note
-> The owner, who it is shared to, and the time of last edit
-> Only the note owner can do this
-
-**`nhelp`**
-> Displays helpful information (basically this)
+Forms expire after 15 minutes or a bot restart. If someone edits a note while your form is open, reopen the editor to use the latest content. If your access is removed, the form cannot save changes.
 
 ## Something is not working!
 
 ### I want to use this privately
-Use the commands in the direct message channel with the bot. All commands are still supported.
 
-### My notes are not showing
-If you set your notes to too many characters, Discord display the embed.
-Try to limit large blocks of text (>2000 characters) to multiple notes.
+Use the slash commands in a direct message with the bot. `/note read` displays the note in the channel where you run it, so use a DM for private reading. Other replies are private to you. Notes are tied to your account and can be accessed across servers.
 
-### For some reason the bot is not working
-If the bot is not working, try reinviting it [here](https://thymedev.github.io/invite/betternotes).
+### The slash commands are not showing
+
+Try [reinviting BetterNotes](https://thymedev.github.io/invite/betternotes) to authorize its slash commands, then reopen Discord's command picker.
+
+### My note is too long for the editor
+
+New notes and form submissions support up to 4000 characters; titles support 200 characters. Existing longer notes are preserved: read them using `/note read title page`, or use append/remove/line-edit modes when the full note is too long for one form.
 
 ### I want to export my notes
-You can easily copy-paste your notes out of Discord and save them elsewhere. Use `nlist` to display your notes list and `nread` to open each note. Each note will be displayed in an easy-to-copy Discord embed.
+
+Use `/note list` and `/note read` to copy your notes. Long notes have numbered pages; copy every page.
 
 ### I want to attach a file
-We recommend uploading your file to Discord, and then copying the file/download URL to save into your note.
 
-You can also upload to another platform if you need more than 8MB, ie. [Google Drive](https://drive.google.com), [Wormhole](https://wormhole.app/), etc. and paste that link into your BetterNotes note.
+Upload the file to Discord or another file service, then save its URL in your note. BetterNotes stores text rather than file attachments.
 
 ### Syntax
-Because this is an embed, all normal discord markdown is supported. [read more](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
-`[text](link)` can be used to apply the link to the text.
+
+Normal Discord Markdown is supported in note displays. `[text](link)` can be used to add a link.
 
 ## More Info
-### Suggestions and bug reports
-Please direct all suggestions and bug reports to [our support server](https://thymedev.github.io/discord)
 
-### Future plans
-Better support for shared files
+### Suggestions and bug reports
+
+Please direct suggestions and bug reports to [our support server](https://thymedev.github.io/discord).
